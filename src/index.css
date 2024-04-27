@@ -14,7 +14,7 @@
 }
 
 .logo-mid {
-  height: 100px;
+  height: 50px;
   margin: 20px;
 }
 
@@ -30,8 +30,8 @@
 }
 
 .map {
-  height: 350px;
-  width: 700px;
+  height: 450px;
+  width: 900px;
   margin: 30px;
   border: 1px solid gray;
   background-color: rgb(125, 193, 220);
