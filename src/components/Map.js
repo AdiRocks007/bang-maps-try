@@ -1,11 +1,21 @@
 import React, { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
+
+// Custom icon for metro stops
+const metroIcon = new L.Icon({
+  iconUrl: '/metro.png', // Adjust the path as needed
+  iconSize: [25, 25], // Adjust the size as needed
+  iconAnchor: [12, 12], // Adjust the anchor point as needed
+  popupAnchor: [0, -10], // Adjust the popup anchor point as needed
+});
 
 export function Map() {
   const defaultPosition = [12.9927655, 77.8060448]; // Default position
   const [markers, setMarkers] = useState([]);
+  const [metroData, setMetroData] = useState(null); // State to hold the GeoJSON data
+  const [showMetro, setShowMetro] = useState(false);
 
   useEffect(() => {
     // Fetch data from CSV or use any other method to get your data
@@ -54,12 +64,30 @@ export function Map() {
       .catch(error => {
         console.error('Error fetching CSV data:', error);
       });
+
+    // Fetch metro routes GeoJSON data
+    fetch('/metro-lines-stations.geojson') // Adjust the file path to your GeoJSON file
+      .then(response => response.json())
+      .then(data => {
+        setMetroData(data);
+      })
+      .catch(error => {
+        console.error('Error fetching GeoJSON data:', error);
+      });
   }, []);
+
+  const metroStyle = {
+    color: 'magenta',
+    weight: 5,
+  };
 
   return (
     <section className='map-component'>
+      <button onClick={() => setShowMetro(!showMetro)}>
+        {showMetro ? 'Hide Metro Routes' : 'Show Metro Routes'}
+      </button>
       <div className='map'>
-        <MapContainer style={{ height: '60vh', width: '200%' }} center={defaultPosition} zoom={12} scrollWheelZoom={true}>
+        <MapContainer style={{ height: '60vh', width: '100%' }} center={defaultPosition} zoom={12} scrollWheelZoom={true}>
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -74,6 +102,18 @@ export function Map() {
               <Popup>{marker.name}</Popup>
             </Marker>
           ))}
+          {showMetro && metroData && (
+            <GeoJSON
+              data={metroData}
+              style={metroStyle}
+              pointToLayer={(feature, latlng) => {
+                if (feature.geometry.type === 'Point') {
+                  return L.marker(latlng, { icon: metroIcon });
+                }
+                return L.circleMarker(latlng);
+              }}
+            />
+          )}
         </MapContainer>
       </div>
     </section>
