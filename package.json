@@ -7,12 +7,16 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
+    "express": "^4.19.2",
     "leaflet": "^1.8.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "osrm-text-instructions": "^0.15.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-leaflet": "^4.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
   },
   "scripts": {
     "start": "react-scripts start",
