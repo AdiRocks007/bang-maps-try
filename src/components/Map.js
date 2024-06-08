@@ -1,72 +1,73 @@
 import React, { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, GeoJSON, useMap } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import { Sidebar } from './Sidebar/sidebar';
+import 'leaflet.gridlayer.googlemutant';
 
-// Custom icons
+// Custom icons for different types of markers
 const metroIcon = new L.Icon({
   iconUrl: '/metro.png',
-  iconSize: [25, 25],
+  iconSize: [30, 30],
   iconAnchor: [12, 12],
   popupAnchor: [0, -10],
 });
 
-const airportIcon = new L.Icon({
-  iconUrl: '/airport.png',
-  iconSize: [25, 25],
+const hospitalIcon = new L.Icon({
+  iconUrl: '/hospital.png',
+  iconSize: [30, 30],
   iconAnchor: [12, 12],
   popupAnchor: [0, -10],
 });
+
+const schoolIcon = new L.Icon({
+  iconUrl: '/education.png',
+  iconSize: [30, 30],
+  iconAnchor: [12, 12],
+  popupAnchor: [0, -10],
+});
+
+const projectIcon = new L.Icon({
+  iconUrl: '/location-pin.png',
+  iconSize: [30, 30],
+  iconAnchor: [12, 12],
+  popupAnchor: [0, -10],
+});
+
+const AdditionalMarkers = ({ markers }) => (
+  markers.map(marker => (
+    <Marker key={marker.key} position={marker.position} icon={marker.icon}>
+      <Popup>{marker.popupContent}</Popup>
+    </Marker>
+  ))
+);
+
+const ZoomToProject = ({ position }) => {
+  const map = useMap();
+  useEffect(() => {
+    if (position) {
+      map.setView(position, 12);
+    }
+  }, [position, map]);
+  return null;
+};
 
 export function Map() {
   const defaultPosition = [12.9927655, 77.8060448];
-  const [markers, setMarkers] = useState([]);
+  const [projects, setProjects] = useState([]);
   const [metroData, setMetroData] = useState(null);
   const [showMetro, setShowMetro] = useState(false);
-  const [showStrr, setShowStrr] = useState(false);
   const [selectedProject, setSelectedProject] = useState(null);
-  const [nearestDetails, setNearestDetails] = useState({
-    airport: {},
-    hospital: {},
-    school: {}
-  });
+  const [additionalMarkers, setAdditionalMarkers] = useState([]);
 
   useEffect(() => {
-    fetch('/Project Master - Updated.csv')
-      .then(response => response.text())
+    fetch('/updated_file_with_nearby_json.json')
+      .then(response => response.json())
       .then(data => {
-        const rows = data.split('\n');
-        const header = rows[0].split(',').map(header => header.trim().toLowerCase());
-        const latitudeIndex = header.indexOf('latitude');
-        const longitudeIndex = header.indexOf('longitude');
-        const nameIndex = header.indexOf('project name');
-
-        if (latitudeIndex !== -1 && longitudeIndex !== -1 && nameIndex !== -1) {
-          const markersData = [];
-          rows.slice(1, 501).forEach((row, index) => {
-            const columns = row.split(',');
-            if (columns.length > latitudeIndex && columns.length > longitudeIndex && columns.length > nameIndex &&
-              columns[latitudeIndex].trim() && columns[longitudeIndex].trim() && columns[nameIndex].trim()) {
-              const latitude = parseFloat(columns[latitudeIndex].trim());
-              const longitude = parseFloat(columns[longitudeIndex].trim());
-
-              if (!isNaN(latitude) && !isNaN(longitude)) {
-                markersData.push({ latitude, longitude, name: columns[nameIndex].trim() });
-              } else {
-                console.warn(`Invalid coordinates at row ${index + 1}: Latitude or longitude is not a valid number.`);
-              }
-            } else {
-              console.warn(`Invalid coordinates at row ${index + 1}: Latitude, longitude, or name is missing.`);
-            }
-          });
-          setMarkers(markersData);
-        } else {
-          console.error('Latitude, longitude, or project name column not found in CSV.');
-        }
+        console.log('Projects data:', data);
+        setProjects(data);
       })
       .catch(error => {
-        console.error('Error fetching CSV data:', error);
+        console.error('Error fetching JSON data:', error);
       });
 
     fetch('/metro-lines-stations.geojson')
@@ -79,124 +80,87 @@ export function Map() {
       });
   }, []);
 
-  const metroStyle = {
-    color: 'magenta',
-    weight: 5,
-  };
-
-  const fetchNearestPlaces = async (project) => {
-    const places = ['airport', 'hospital', 'school'];
-    const nearestDetails = {};
-
-    for (const place of places) {
-      try {
-        const response = await fetch(`http://localhost:5000/api/places?type=${place}&lat=${project.latitude}&lng=${project.longitude}`);
-        const data = await response.json();
-        nearestDetails[place] = {
-          name: data.results[0]?.name || 'Not found',
-          distance: calculateDistance(project.latitude, project.longitude, data.results[0]?.geometry.location.lat || 0, data.results[0]?.geometry.location.lng || 0)
-        };
-      } catch (error) {
-        nearestDetails[place] = {
-          name: 'Error fetching data',
-          distance: 0
-        };
-        console.error(`Error fetching ${place} data:`, error);
-      }
-    }
-
-    setNearestDetails(nearestDetails);
-  };
-
-  const calculateDistance = (lat1, lon1, lat2, lon2) => {
-    const R = 6371;
-    const dLat = (lat2 - lat1) * (Math.PI / 180);
-    const dLon = (lon2 - lon1) * (Math.PI / 180);
-    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-              Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) *
-              Math.sin(dLon / 2) * Math.sin(dLon / 2);
-    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    return R * c;
-  };
-
-  const handleMarkerClick = async (project) => {
+  const handleMarkerClick = (project) => {
+    console.log('Selected project:', project);
     setSelectedProject(project);
-    await fetchNearestPlaces(project);
+    const additionalMarkersData = [];
+
+    const processNearbyLocations = (locations, type, icon) => {
+      if (locations && Array.isArray(locations)) {
+        locations.forEach((location, index) => {
+          const [name, distance, coordinates] = Array.isArray(location) ? location : [location.name, location.distance, [location.coordinates.latitude, location.coordinates.longitude]];
+          if (Array.isArray(coordinates) && coordinates.length === 2) {
+            const [latitude, longitude] = coordinates;
+            if (!isNaN(latitude) && !isNaN(longitude)) {
+              additionalMarkersData.push({
+                key: `${type}-${index}`,
+                position: [latitude, longitude],
+                icon: icon,
+                popupContent: `${name} (${distance} km)`,
+              });
+            } else {
+              console.warn(`Invalid ${type} coordinates for ${name}`);
+            }
+          } else {
+            console.warn(`Coordinates object missing for ${type}: ${name}`);
+          }
+        });
+      } else {
+        console.warn(`Nearest ${type} data missing or not an array.`);
+      }
+    };
+
+    processNearbyLocations(project.nearest_metros, 'metro', metroIcon);
+    processNearbyLocations(project.nearest_hospitals, 'hospital', hospitalIcon);
+    processNearbyLocations(project.nearest_schools, 'school', schoolIcon);
+
+    setAdditionalMarkers(additionalMarkersData);
+  };
+
+  const handleResetClick = () => {
+    setSelectedProject(null);
+    setAdditionalMarkers([]);
   };
 
   return (
-    <section className='map-component'>
-      <div className='map-filters'>
-        <button onClick={() => setShowMetro(!showMetro)}>
-          {showMetro ? 'Hide Metro Routes' : 'Show Metro Routes'}
-        </button>
-        <button onClick={() => setShowStrr(!showStrr)}>
-          {showStrr ? 'Hide STRR Road' : 'Show STRR Road'}
-        </button>
-      </div>
-      <div className='map'>
+    <section className="map">
+      <div className="container">
         <MapContainer style={{ height: '60vh', width: '100%' }} center={defaultPosition} zoom={12} scrollWheelZoom={true}>
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           />
-          {markers.map((marker, index) => (
-            <Marker key={index} position={[marker.latitude, marker.longitude]} icon={L.icon({
-              iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png',
-              iconSize: [25, 41],
-              iconAnchor: [12, 41],
-              popupAnchor: [1, -34],
-            })} eventHandlers={{ click: () => handleMarkerClick(marker) }}>
-              <Popup>{marker.name}</Popup>
+          <TileLayer
+            url="https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}"
+            attribution='&copy; <a href="https://www.google.com/maps">Google Maps</a>'
+          />
+          {!selectedProject && projects.map((project, index) => (
+            <Marker
+              key={`project-${index}`}
+              position={[project.Latitude, project.Longitude]}
+              icon={projectIcon}
+              eventHandlers={{ click: () => handleMarkerClick(project) }}
+            >
+              <Popup>{project['Project Name']}</Popup>
             </Marker>
           ))}
-          {showMetro && metroData && (
-            <GeoJSON
-              data={metroData}
-              style={metroStyle}
-              pointToLayer={(feature, latlng) => {
-                if (feature.geometry.type === 'Point') {
-                  return L.marker(latlng, { icon: metroIcon });
-                }
-                return L.circleMarker(latlng);
-              }}
-            />
+          {selectedProject && (
+            <>
+              <ZoomToProject position={[selectedProject.Latitude, selectedProject.Longitude]} />
+              <Marker key={`selected-project`} icon={projectIcon} position={[selectedProject.Latitude, selectedProject.Longitude]}>
+                <Popup>{selectedProject['Project Name']}</Popup>
+              </Marker>
+              <AdditionalMarkers markers={additionalMarkers} />
+            </>
           )}
-          {showStrr && (
-            <GeoJSON data={{
-              "type": "Feature",
-              "properties": {},
-              "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                  [
-                    [77.3872, 12.8010],
-                    [77.4538, 12.9433],
-                    [77.5672, 12.9460],
-                    [77.5436, 13.2944],
-                    [77.7110, 13.2507],
-                    [77.7095, 13.0905],
-                    [77.9826, 13.0943],
-                    [78.0186, 13.0052],
-                    [77.9005, 12.8110],
-                    [77.9202, 12.7783],
-                    [77.6916, 12.6964],
-                    [77.3872, 12.8010]
-                  ]
-                ]
-              }
-            }} style={{ color: 'blue', weight: 5 }} />
-          )}
+          {showMetro && metroData && <GeoJSON data={metroData} />}
         </MapContainer>
+        {selectedProject && (
+          <button onClick={handleResetClick} style={{ marginTop: '10px' }}>
+            Reset to Project Markers
+          </button>
+        )}
       </div>
-      <Sidebar
-        isOpen={!!selectedProject}
-        project={selectedProject}
-        airport={nearestDetails.airport}
-        hospital={nearestDetails.hospital}
-        school={nearestDetails.school}
-        onClose={() => setSelectedProject(null)}
-      />
     </section>
   );
 }

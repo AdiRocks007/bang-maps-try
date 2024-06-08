@@ -11,7 +11,7 @@ app.use((req, res, next) => {
 
 app.get('/api/places', async (req, res) => {
   const { type, lat, lng } = req.query;
-  const apiKey = 'AIzaSyAMbl_cn5P__bUfx_8aJvLG_GxZQCBK7lw'; // Replace with your actual Google Maps API key
+  const apiKey = 'AIzaSyAMbl_cn5P__bUfx_8aJvLG_GxZQCBK7lw'; 
 
   try {
     const response = await axios.get('https://maps.googleapis.com/maps/api/place/nearbysearch/json', {
