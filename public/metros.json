@@ -1,0 +1,464 @@
+[
+    {
+        "name": "Swami Vivekananda Road",
+        "coordinates": {
+            "latitude": 12.9859106,
+            "longitude": 77.645004
+        }
+    },
+    {
+        "name": "Benniganahalli",
+        "coordinates": {
+            "latitude": 12.996476,
+            "longitude": 77.668454
+        }
+    },
+    {
+        "name": "Benniganahalli Metro Station",
+        "coordinates": {
+            "latitude": 12.9963737,
+            "longitude": 77.6682628
+        }
+    },
+    {
+        "name": "K.R. Pura",
+        "coordinates": {
+            "latitude": 12.999922,
+            "longitude": 77.677607
+        }
+    },
+    {
+        "name": "Baiyappanahalli",
+        "coordinates": {
+            "latitude": 12.9906677,
+            "longitude": 77.6525905
+        }
+    },
+    {
+        "name": "Singayyanapalya",
+        "coordinates": {
+            "latitude": 12.996557,
+            "longitude": 77.692708
+        }
+    },
+    {
+        "name": "Garudacharpalya",
+        "coordinates": {
+            "latitude": 12.993482,
+            "longitude": 77.703658
+        }
+    },
+    {
+        "name": "Indiranagar",
+        "coordinates": {
+            "latitude": 12.9782619,
+            "longitude": 77.6385257
+        }
+    },
+    {
+        "name": "Hoodi",
+        "coordinates": {
+            "latitude": 12.988782,
+            "longitude": 77.711364
+        }
+    },
+    {
+        "name": "Seetharam Palya",
+        "coordinates": {
+            "latitude": 12.980966,
+            "longitude": 77.708713
+        }
+    },
+    {
+        "name": "Halasuru",
+        "coordinates": {
+            "latitude": 12.9763635,
+            "longitude": 77.626715
+        }
+    },
+    {
+        "name": "Kundalahalli",
+        "coordinates": {
+            "latitude": 12.977607,
+            "longitude": 77.715523
+        }
+    },
+    {
+        "name": "Trinity",
+        "coordinates": {
+            "latitude": 12.97303,
+            "longitude": 77.6168395
+        }
+    },
+    {
+        "name": "Nallur Halli",
+        "coordinates": {
+            "latitude": 12.976632,
+            "longitude": 77.724752
+        }
+    },
+    {
+        "name": "Sri Sathya Sai Hospital",
+        "coordinates": {
+            "latitude": 12.98122,
+            "longitude": 77.72754
+        }
+    },
+    {
+        "name": "Mahatma Gandhi Road",
+        "coordinates": {
+            "latitude": 12.9755162,
+            "longitude": 77.6066919
+        }
+    },
+    {
+        "name": "Pattandur Agrahara",
+        "coordinates": {
+            "latitude": 12.987622,
+            "longitude": 77.737737
+        }
+    },
+    {
+        "name": "Cubbon Park",
+        "coordinates": {
+            "latitude": 12.9809008,
+            "longitude": 77.5974654
+        }
+    },
+    {
+        "name": "Dr. B.R. Ambedkar Station Vidhana Soudha",
+        "coordinates": {
+            "latitude": 12.9796925,
+            "longitude": 77.5926343
+        }
+    },
+    {
+        "name": "Kadugodi",
+        "coordinates": {
+            "latitude": 12.985711,
+            "longitude": 77.746842
+        }
+    },
+    {
+        "name": "Jaya Prakash Nagar",
+        "coordinates": {
+            "latitude": 12.9075563,
+            "longitude": 77.573061
+        }
+    },
+    {
+        "name": "Banashankari",
+        "coordinates": {
+            "latitude": 12.9155385,
+            "longitude": 77.5736288
+        }
+    },
+    {
+        "name": "Jayanagar",
+        "coordinates": {
+            "latitude": 12.9296749,
+            "longitude": 77.5801753
+        }
+    },
+    {
+        "name": "Thalaghattapura",
+        "coordinates": {
+            "latitude": 12.871366,
+            "longitude": 77.538439
+        }
+    },
+    {
+        "name": "Silk Institute",
+        "coordinates": {
+            "latitude": 12.861672,
+            "longitude": 77.529981
+        }
+    },
+    {
+        "name": "Vajarahalli",
+        "coordinates": {
+            "latitude": 12.877485,
+            "longitude": 77.544817
+        }
+    },
+    {
+        "name": "Doddakallasandra",
+        "coordinates": {
+            "latitude": 12.884636,
+            "longitude": 77.552824
+        }
+    },
+    {
+        "name": "Konanakunte Cross",
+        "coordinates": {
+            "latitude": 12.888909,
+            "longitude": 77.56278
+        }
+    },
+    {
+        "name": "Yelachenahalli",
+        "coordinates": {
+            "latitude": 12.8960529,
+            "longitude": 77.5701606
+        }
+    },
+    {
+        "name": "Rashtreeya Vidyalaya Road",
+        "coordinates": {
+            "latitude": 12.9215877,
+            "longitude": 77.5802611
+        }
+    },
+    {
+        "name": "Kengeri Bus Terminal",
+        "coordinates": {
+            "latitude": 12.914642,
+            "longitude": 77.487704
+        }
+    },
+    {
+        "name": "Pattanagere",
+        "coordinates": {
+            "latitude": 12.924276,
+            "longitude": 77.498305
+        }
+    },
+    {
+        "name": "Rajarajeshwari Nagar",
+        "coordinates": {
+            "latitude": 12.936693,
+            "longitude": 77.519556
+        }
+    },
+    {
+        "name": "Kengeri",
+        "coordinates": {
+            "latitude": 12.907912,
+            "longitude": 77.47647
+        }
+    },
+    {
+        "name": "Jnanabharathi",
+        "coordinates": {
+            "latitude": 12.935446,
+            "longitude": 77.512178
+        }
+    },
+    {
+        "name": "Nayandanahalli",
+        "coordinates": {
+            "latitude": 12.941826,
+            "longitude": 77.525164
+        }
+    },
+    {
+        "name": "Mysuru Road",
+        "coordinates": {
+            "latitude": 12.9467268,
+            "longitude": 77.5300739
+        }
+    },
+    {
+        "name": "South End Circle",
+        "coordinates": {
+            "latitude": 12.9383208,
+            "longitude": 77.5800748
+        }
+    },
+    {
+        "name": "Challaghatta",
+        "coordinates": {
+            "latitude": 12.897336,
+            "longitude": 77.461214
+        }
+    },
+    {
+        "name": "Deepanjali Nagar",
+        "coordinates": {
+            "latitude": 12.952215,
+            "longitude": 77.5371013
+        }
+    },
+    {
+        "name": "Whitefield (Kadugodi)",
+        "coordinates": {
+            "latitude": 12.995626,
+            "longitude": 77.757805
+        }
+    },
+    {
+        "name": "Hopefarm Channasandra",
+        "coordinates": {
+            "latitude": 12.987348,
+            "longitude": 77.753796
+        }
+    },
+    {
+        "name": "Yeshwanthpur",
+        "coordinates": {
+            "latitude": 13.0233093,
+            "longitude": 77.5498636
+        }
+    },
+    {
+        "name": "Goraguntepalya",
+        "coordinates": {
+            "latitude": 13.028486,
+            "longitude": 77.5408673
+        }
+    },
+    {
+        "name": "Mahalakshmi",
+        "coordinates": {
+            "latitude": 13.0083376,
+            "longitude": 77.5488342
+        }
+    },
+    {
+        "name": "Srirampura",
+        "coordinates": {
+            "latitude": 12.9965258,
+            "longitude": 77.5633563
+        }
+    },
+    {
+        "name": "Mahakavi Kuvempu Road",
+        "coordinates": {
+            "latitude": 12.9985023,
+            "longitude": 77.5569472
+        }
+    },
+    {
+        "name": "Sampige Road",
+        "coordinates": {
+            "latitude": 12.9905452,
+            "longitude": 77.5708049
+        }
+    },
+    {
+        "name": "Rajajinagar",
+        "coordinates": {
+            "latitude": 13.0003458,
+            "longitude": 77.5497483
+        }
+    },
+    {
+        "name": "Dasarahalli",
+        "coordinates": {
+            "latitude": 13.0435419,
+            "longitude": 77.5123791
+        }
+    },
+    {
+        "name": "Sandal Soap Factory",
+        "coordinates": {
+            "latitude": 13.0147286,
+            "longitude": 77.5540309
+        }
+    },
+    {
+        "name": "Peenya",
+        "coordinates": {
+            "latitude": 13.0329869,
+            "longitude": 77.5334691
+        }
+    },
+    {
+        "name": "Peenya Industry",
+        "coordinates": {
+            "latitude": 13.0364479,
+            "longitude": 77.5254516
+        }
+    },
+    {
+        "name": "Jalahalli",
+        "coordinates": {
+            "latitude": 13.0395842,
+            "longitude": 77.5198378
+        }
+    },
+    {
+        "name": "Lalbagh",
+        "coordinates": {
+            "latitude": 12.946287,
+            "longitude": 77.5800611
+        }
+    },
+    {
+        "name": "National College",
+        "coordinates": {
+            "latitude": 12.9506135,
+            "longitude": 77.5737362
+        }
+    },
+    {
+        "name": "Magadi Road",
+        "coordinates": {
+            "latitude": 12.9756582,
+            "longitude": 77.5554115
+        }
+    },
+    {
+        "name": "Sir M Visveswaraya Station, Central College",
+        "coordinates": {
+            "latitude": 12.9742805,
+            "longitude": 77.5839458
+        }
+    },
+    {
+        "name": "Nagasandra",
+        "coordinates": {
+            "latitude": 13.0481133,
+            "longitude": 77.5001231
+        }
+    },
+    {
+        "name": "Vijayanagar Metro Railway Station",
+        "coordinates": {
+            "latitude": 12.9708197,
+            "longitude": 77.5373638
+        }
+    },
+    {
+        "name": "Sri Balagangadhara Natha Swamiji",
+        "coordinates": {
+            "latitude": 12.9742975,
+            "longitude": 77.5454436
+        }
+    },
+    {
+        "name": "Krantivira Sangolli Rayanna-Railway Station",
+        "coordinates": {
+            "latitude": 12.9758403,
+            "longitude": 77.5657561
+        }
+    },
+    {
+        "name": "\u0c9a\u0cbf\u0c95\u0cc1\u0caa\u0cc7\u0c9f\u0cc6",
+        "coordinates": {
+            "latitude": 12.9675461,
+            "longitude": 77.5747925
+        }
+    },
+    {
+        "name": "Krishna Rajendra Market",
+        "coordinates": {
+            "latitude": 12.960161,
+            "longitude": 77.574479
+        }
+    },
+    {
+        "name": "Nadaprabhu Kempegowda Metro Station, Majestic",
+        "coordinates": {
+            "latitude": 12.975692,
+            "longitude": 77.572844
+        }
+    },
+    {
+        "name": "Attiguppe",
+        "coordinates": {
+            "latitude": 12.9621018,
+            "longitude": 77.5337131
+        }
+    }
+]

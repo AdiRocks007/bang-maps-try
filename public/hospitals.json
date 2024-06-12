@@ -1,0 +1,3383 @@
+[
+    {
+        "name": "Vinay Nursing Home",
+        "coordinates": {
+            "latitude": 13.0088324,
+            "longitude": 77.6222942
+        }
+    },
+    {
+        "name": "BEST SERVICES",
+        "coordinates": {
+            "latitude": 12.9557195,
+            "longitude": 77.6910045
+        }
+    },
+    {
+        "name": "Popular furniture",
+        "coordinates": {
+            "latitude": 13.0146784,
+            "longitude": 77.608957
+        }
+    },
+    {
+        "name": "Sankara Eye Hospital Bangalore",
+        "coordinates": {
+            "latitude": 12.9563762,
+            "longitude": 77.7130559
+        }
+    },
+    {
+        "name": "Manipal Hospital Hebbal",
+        "coordinates": {
+            "latitude": 13.0509374,
+            "longitude": 77.5939248
+        }
+    },
+    {
+        "name": "ESI Hospital",
+        "coordinates": {
+            "latitude": 12.9711854,
+            "longitude": 77.6369099
+        }
+    },
+    {
+        "name": "Santosh Hospital - Best Multispeciality Hospital in Bangalore",
+        "coordinates": {
+            "latitude": 12.9958111,
+            "longitude": 77.6082954
+        }
+    },
+    {
+        "name": "Cloudnine Hospital - Old Airport Road",
+        "coordinates": {
+            "latitude": 12.9594548,
+            "longitude": 77.6567652
+        }
+    },
+    {
+        "name": "Bangalore Baptist Hospital",
+        "coordinates": {
+            "latitude": 13.0356137,
+            "longitude": 77.5896209
+        }
+    },
+    {
+        "name": "Manipal Hospital Millers Road",
+        "coordinates": {
+            "latitude": 12.9883379,
+            "longitude": 77.5919754
+        }
+    },
+    {
+        "name": "VSH Hospital",
+        "coordinates": {
+            "latitude": 12.968064,
+            "longitude": 77.5950677
+        }
+    },
+    {
+        "name": "Enhanced Health Care",
+        "coordinates": {
+            "latitude": 12.9653805,
+            "longitude": 77.6380899
+        }
+    },
+    {
+        "name": "Poornima Hospital (NABH ACCREDITED)",
+        "coordinates": {
+            "latitude": 13.0264157,
+            "longitude": 77.5950779
+        }
+    },
+    {
+        "name": "Dr.R.Munisingh Hospital",
+        "coordinates": {
+            "latitude": 12.976918,
+            "longitude": 77.751184
+        }
+    },
+    {
+        "name": "Srivijaya Hospital \u0cb6\u0ccd\u0cb0\u0cc0 \u0cb5\u0cbf\u0c9c\u0caf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+        "coordinates": {
+            "latitude": 13.0124758,
+            "longitude": 77.6579748
+        }
+    },
+    {
+        "name": "Reach Psychiatry",
+        "coordinates": {
+            "latitude": 13.020844,
+            "longitude": 77.643007
+        }
+    },
+    {
+        "name": "Garden City Hospital",
+        "coordinates": {
+            "latitude": 13.0263573,
+            "longitude": 77.6029548
+        }
+    },
+    {
+        "name": "Health and Hijama Cupping Therapy Clinic Bangalore",
+        "coordinates": {
+            "latitude": 13.0103928,
+            "longitude": 77.6483168
+        }
+    },
+    {
+        "name": "Heart Lung Clinic",
+        "coordinates": {
+            "latitude": 12.97864,
+            "longitude": 77.6444208
+        }
+    },
+    {
+        "name": "Mirlay Eye Care, a unit of Dr Agarwals Eye Hospital",
+        "coordinates": {
+            "latitude": 12.9910025,
+            "longitude": 77.6131417
+        }
+    },
+    {
+        "name": "Apollo Hospitals Bannerghatta",
+        "coordinates": {
+            "latitude": 12.8961106,
+            "longitude": 77.598542
+        }
+    },
+    {
+        "name": "Ring Road Hospital",
+        "coordinates": {
+            "latitude": 12.9073953,
+            "longitude": 77.5716317
+        }
+    },
+    {
+        "name": "Shekar Eye Hospital",
+        "coordinates": {
+            "latitude": 12.9064733,
+            "longitude": 77.5959451
+        }
+    },
+    {
+        "name": "The Bangalore Hospital",
+        "coordinates": {
+            "latitude": 12.9377405,
+            "longitude": 77.5804336
+        }
+    },
+    {
+        "name": "Haroon Children Wellness & Vaccination Centre",
+        "coordinates": {
+            "latitude": 12.911681,
+            "longitude": 77.5630838
+        }
+    },
+    {
+        "name": "Fortis Hospital, Bannerghatta Road",
+        "coordinates": {
+            "latitude": 12.8948127,
+            "longitude": 77.5986767
+        }
+    },
+    {
+        "name": "Shubha Ayurvedic Center",
+        "coordinates": {
+            "latitude": 12.937224,
+            "longitude": 77.5795218
+        }
+    },
+    {
+        "name": "Sri Venkateshwara Nethralaya, Eye hospital and Lasik centre",
+        "coordinates": {
+            "latitude": 12.9250475,
+            "longitude": 77.5181491
+        }
+    },
+    {
+        "name": "Vijayashree Hospitals",
+        "coordinates": {
+            "latitude": 12.8578458,
+            "longitude": 77.589331
+        }
+    },
+    {
+        "name": "Bkf-Chande Nephro-Urology Centre",
+        "coordinates": {
+            "latitude": 12.9155429,
+            "longitude": 77.5553985
+        }
+    },
+    {
+        "name": "Janani Clinic",
+        "coordinates": {
+            "latitude": 12.9058626,
+            "longitude": 77.5800158
+        }
+    },
+    {
+        "name": "Nature Cure",
+        "coordinates": {
+            "latitude": 12.889419,
+            "longitude": 77.563543
+        }
+    },
+    {
+        "name": "Dr Divya T(Family clinic Uttarahalli)",
+        "coordinates": {
+            "latitude": 12.9046223,
+            "longitude": 77.5441176
+        }
+    },
+    {
+        "name": "The Family Doctor - Modern Family Doctor Private Limited",
+        "coordinates": {
+            "latitude": 12.9180057,
+            "longitude": 77.5593839
+        }
+    },
+    {
+        "name": "Srinivas Clinic",
+        "coordinates": {
+            "latitude": 12.9050878,
+            "longitude": 77.5423671
+        }
+    },
+    {
+        "name": "Aikya Speciality Clinic and Diagnostic Centre",
+        "coordinates": {
+            "latitude": 12.8792134,
+            "longitude": 77.5457126
+        }
+    },
+    {
+        "name": "Yashodha ayurvedic hospital",
+        "coordinates": {
+            "latitude": 12.8872089,
+            "longitude": 77.5570692
+        }
+    },
+    {
+        "name": "Recoup Health Anjanapura",
+        "coordinates": {
+            "latitude": 12.8554109,
+            "longitude": 77.5706442
+        }
+    },
+    {
+        "name": "Tara Day Care Hospital - Best Emergency Hospital in JP Nagar 8th Phase Bangalore",
+        "coordinates": {
+            "latitude": 12.8751698,
+            "longitude": 77.5698398
+        }
+    },
+    {
+        "name": "Samastha Hospital",
+        "coordinates": {
+            "latitude": 12.897014,
+            "longitude": 77.5473539
+        }
+    },
+    {
+        "name": "Sri Sai Poly Clinic",
+        "coordinates": {
+            "latitude": 13.0668844,
+            "longitude": 77.6392785
+        }
+    },
+    {
+        "name": "Medi Derma Hospital",
+        "coordinates": {
+            "latitude": 13.0599302,
+            "longitude": 77.6525705
+        }
+    },
+    {
+        "name": "Dementia Care Home",
+        "coordinates": {
+            "latitude": 13.0237712,
+            "longitude": 77.6583637
+        }
+    },
+    {
+        "name": "Carmel Medical & Dental Care",
+        "coordinates": {
+            "latitude": 13.049746,
+            "longitude": 77.645341
+        }
+    },
+    {
+        "name": "Pristine Natural Health & Research Centre India Pvt. Ltd.",
+        "coordinates": {
+            "latitude": 13.0244952,
+            "longitude": 77.6375646
+        }
+    },
+    {
+        "name": "ReachH Homeopathic Pharma",
+        "coordinates": {
+            "latitude": 13.0623759,
+            "longitude": 77.6494063
+        }
+    },
+    {
+        "name": "REGAL Kidney and Multi Specialty Hospital, Bengaluru",
+        "coordinates": {
+            "latitude": 13.0833285,
+            "longitude": 77.6349608
+        }
+    },
+    {
+        "name": "Cratis Hospital",
+        "coordinates": {
+            "latitude": 13.0483181,
+            "longitude": 77.6456396
+        }
+    },
+    {
+        "name": "AJ medicals And General Store",
+        "coordinates": {
+            "latitude": 13.0512104,
+            "longitude": 77.6339906
+        }
+    },
+    {
+        "name": "Sakaria Hospital",
+        "coordinates": {
+            "latitude": 13.029592,
+            "longitude": 77.6275723
+        }
+    },
+    {
+        "name": "SRI SAI CLINIC",
+        "coordinates": {
+            "latitude": 13.0372345,
+            "longitude": 77.6751547
+        }
+    },
+    {
+        "name": "URBAN Kids Clinic",
+        "coordinates": {
+            "latitude": 13.0308152,
+            "longitude": 77.668606
+        }
+    },
+    {
+        "name": "Dr. Sailaja's Super Speciality Eye Hospital",
+        "coordinates": {
+            "latitude": 13.0276547,
+            "longitude": 77.6613527
+        }
+    },
+    {
+        "name": "Sri Hari Medical and General Store",
+        "coordinates": {
+            "latitude": 13.0298902,
+            "longitude": 77.6792399
+        }
+    },
+    {
+        "name": "Motherhood Clinic - Kannamangala, Bangalore",
+        "coordinates": {
+            "latitude": 13.0247984,
+            "longitude": 77.7613184
+        }
+    },
+    {
+        "name": "Pushpa Nursing Home",
+        "coordinates": {
+            "latitude": 12.9688731,
+            "longitude": 77.7495786
+        }
+    },
+    {
+        "name": "Reddy's",
+        "coordinates": {
+            "latitude": 12.9424673,
+            "longitude": 77.7611223
+        }
+    },
+    {
+        "name": "Motherhood Hospital - Whitefield",
+        "coordinates": {
+            "latitude": 12.9589749,
+            "longitude": 77.7467214
+        }
+    },
+    {
+        "name": "Manipal Hospital Varthur Road",
+        "coordinates": {
+            "latitude": 12.9581606,
+            "longitude": 77.7454033
+        }
+    },
+    {
+        "name": "SB Health Care Centre",
+        "coordinates": {
+            "latitude": 12.9421599,
+            "longitude": 77.7576747
+        }
+    },
+    {
+        "name": "Vydehi Hospital",
+        "coordinates": {
+            "latitude": 12.9757752,
+            "longitude": 77.7294426
+        }
+    },
+    {
+        "name": "Maruthi Medicals",
+        "coordinates": {
+            "latitude": 13.0700097,
+            "longitude": 77.8000009
+        }
+    },
+    {
+        "name": "Lakshmi Nursing Home",
+        "coordinates": {
+            "latitude": 12.9411861,
+            "longitude": 77.7462629
+        }
+    },
+    {
+        "name": "Globe Eye Foundation",
+        "coordinates": {
+            "latitude": 13.067277,
+            "longitude": 77.7802527
+        }
+    },
+    {
+        "name": "Chaitanya Hospital",
+        "coordinates": {
+            "latitude": 13.0711331,
+            "longitude": 77.786515
+        }
+    },
+    {
+        "name": "Srinivasa Hospital",
+        "coordinates": {
+            "latitude": 13.0740878,
+            "longitude": 77.7855117
+        }
+    },
+    {
+        "name": "Hoskote Mission Institute Of Nursing",
+        "coordinates": {
+            "latitude": 13.0745052,
+            "longitude": 77.7838894
+        }
+    },
+    {
+        "name": "Taluk Government Hospital",
+        "coordinates": {
+            "latitude": 13.0771267,
+            "longitude": 77.8013704
+        }
+    },
+    {
+        "name": "Davita Dialysis Center",
+        "coordinates": {
+            "latitude": 12.9928091,
+            "longitude": 77.7142248
+        }
+    },
+    {
+        "name": "Sri vinayaka medicals and general store",
+        "coordinates": {
+            "latitude": 12.9788034,
+            "longitude": 77.8034295
+        }
+    },
+    {
+        "name": "Beereshwara Medical",
+        "coordinates": {
+            "latitude": 12.9782244,
+            "longitude": 77.8034556
+        }
+    },
+    {
+        "name": "veternerry Hospital",
+        "coordinates": {
+            "latitude": 13.0059368,
+            "longitude": 77.7963251
+        }
+    },
+    {
+        "name": "AROGYA MEDICALS& GENERAL STORE",
+        "coordinates": {
+            "latitude": 13.0062749,
+            "longitude": 77.7968135
+        }
+    },
+    {
+        "name": "SDM Institute of Ayurveda & Hospital",
+        "coordinates": {
+            "latitude": 12.8934772,
+            "longitude": 77.4574527
+        }
+    },
+    {
+        "name": "Rajarajeshwari Hospital",
+        "coordinates": {
+            "latitude": 12.8962674,
+            "longitude": 77.4617612
+        }
+    },
+    {
+        "name": "Kshema Mind Care",
+        "coordinates": {
+            "latitude": 12.9025957,
+            "longitude": 77.4480822
+        }
+    },
+    {
+        "name": "BKC - Banashankari Kidney Care & Lithotripsy Center",
+        "coordinates": {
+            "latitude": 12.9026838,
+            "longitude": 77.4976208
+        }
+    },
+    {
+        "name": "Government Hospital",
+        "coordinates": {
+            "latitude": 12.9156671,
+            "longitude": 77.4807965
+        }
+    },
+    {
+        "name": "Ratkal's Rescue Urology Hospital",
+        "coordinates": {
+            "latitude": 12.9213763,
+            "longitude": 77.4817882
+        }
+    },
+    {
+        "name": "Adarsh Hospital",
+        "coordinates": {
+            "latitude": 12.920582,
+            "longitude": 77.4854194
+        }
+    },
+    {
+        "name": "KIMS RHTC",
+        "coordinates": {
+            "latitude": 12.9156488,
+            "longitude": 77.4988544
+        }
+    },
+    {
+        "name": "RVCE Health Centre",
+        "coordinates": {
+            "latitude": 12.9245508,
+            "longitude": 77.5006643
+        }
+    },
+    {
+        "name": "Bangalore Hospital Kengeri",
+        "coordinates": {
+            "latitude": 12.9311365,
+            "longitude": 77.493367
+        }
+    },
+    {
+        "name": "Vijaya Hospital",
+        "coordinates": {
+            "latitude": 12.941784,
+            "longitude": 77.4837501
+        }
+    },
+    {
+        "name": "GreatLeaps",
+        "coordinates": {
+            "latitude": 12.9128286,
+            "longitude": 77.5218351
+        }
+    },
+    {
+        "name": "G K Physiotherapy Clinic",
+        "coordinates": {
+            "latitude": 12.9200638,
+            "longitude": 77.5183254
+        }
+    },
+    {
+        "name": "Fortis Health world",
+        "coordinates": {
+            "latitude": 12.9262653,
+            "longitude": 77.5156871
+        }
+    },
+    {
+        "name": "Gleneagles BGS Hospital, Kengeri",
+        "coordinates": {
+            "latitude": 12.902994,
+            "longitude": 77.4974865
+        }
+    },
+    {
+        "name": "Aryan Multispeciality Hospital",
+        "coordinates": {
+            "latitude": 12.9470213,
+            "longitude": 77.4963097
+        }
+    },
+    {
+        "name": "SS SPARSH HOSPITAL",
+        "coordinates": {
+            "latitude": 12.9266001,
+            "longitude": 77.521041
+        }
+    },
+    {
+        "name": "Adarsha College Of Nursing | Nursing College In Bangalore",
+        "coordinates": {
+            "latitude": 12.9494757,
+            "longitude": 77.4967945
+        }
+    },
+    {
+        "name": "maruthi medicals",
+        "coordinates": {
+            "latitude": 12.9512275,
+            "longitude": 77.4945034
+        }
+    },
+    {
+        "name": "Cytecare Hospitals Bangalore",
+        "coordinates": {
+            "latitude": 13.1183406,
+            "longitude": 77.6082695
+        }
+    },
+    {
+        "name": "Sri Vinayaka Hospital",
+        "coordinates": {
+            "latitude": 13.1854848,
+            "longitude": 77.698119
+        }
+    },
+    {
+        "name": "Apple Mediclinic",
+        "coordinates": {
+            "latitude": 13.1042326,
+            "longitude": 77.6069555
+        }
+    },
+    {
+        "name": "Maruthi Medicals",
+        "coordinates": {
+            "latitude": 13.1042536,
+            "longitude": 77.6051346
+        }
+    },
+    {
+        "name": "Maruthi Medical Store",
+        "coordinates": {
+            "latitude": 13.1063971,
+            "longitude": 77.595792
+        }
+    },
+    {
+        "name": "Homoeo Care Clinic",
+        "coordinates": {
+            "latitude": 13.0948946,
+            "longitude": 77.593817
+        }
+    },
+    {
+        "name": "Apple ENT and Children's Hospital",
+        "coordinates": {
+            "latitude": 13.1039131,
+            "longitude": 77.5838044
+        }
+    },
+    {
+        "name": "Navachethana Hospital",
+        "coordinates": {
+            "latitude": 13.1037608,
+            "longitude": 77.5837306
+        }
+    },
+    {
+        "name": "Peoples Tree Hospital",
+        "coordinates": {
+            "latitude": 13.0954776,
+            "longitude": 77.5870848
+        }
+    },
+    {
+        "name": "Railway Hospital",
+        "coordinates": {
+            "latitude": 13.1045108,
+            "longitude": 77.5832951
+        }
+    },
+    {
+        "name": "Chaitanya Medical Centre",
+        "coordinates": {
+            "latitude": 13.0925105,
+            "longitude": 77.5863471
+        }
+    },
+    {
+        "name": "Sun Cosmetic Clinic",
+        "coordinates": {
+            "latitude": 13.0979982,
+            "longitude": 77.582581
+        }
+    },
+    {
+        "name": "Sanjeevini Health Care Centre",
+        "coordinates": {
+            "latitude": 13.1318091,
+            "longitude": 77.6666193
+        }
+    },
+    {
+        "name": "Vet4Pets Pet Clinic Bangalore",
+        "coordinates": {
+            "latitude": 12.8828569,
+            "longitude": 77.7543313
+        }
+    },
+    {
+        "name": "Sri Lakshmi Multi Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.881187,
+            "longitude": 77.751551
+        }
+    },
+    {
+        "name": "V-AYUSH Healthcare",
+        "coordinates": {
+            "latitude": 12.939682,
+            "longitude": 77.7274169
+        }
+    },
+    {
+        "name": "Dr. Mohan's Diabetes Specialities Centre - Whitefield",
+        "coordinates": {
+            "latitude": 12.9557219,
+            "longitude": 77.7204873
+        }
+    },
+    {
+        "name": "Apollo Medical Centre - Best Multi-Speciality Clinic in Marathahalli, Bangalore",
+        "coordinates": {
+            "latitude": 12.9562352,
+            "longitude": 77.7168479
+        }
+    },
+    {
+        "name": "Sri Krishna Sevashrama Trust Hospital \u0cb6\u0ccd\u0cb0\u0cc0 \u0c95\u0cc3\u0cb7\u0ccd\u0ca3 \u0cb8\u0cc7\u0cb5\u0cbe\u0cb6\u0ccd\u0cb0\u0cae \u0c9f\u0ccd\u0cb0\u0cb8\u0ccd\u0c9f\u0ccd \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+        "coordinates": {
+            "latitude": 12.956226,
+            "longitude": 77.7124419
+        }
+    },
+    {
+        "name": "Karunashraya",
+        "coordinates": {
+            "latitude": 12.9568464,
+            "longitude": 77.7134937
+        }
+    },
+    {
+        "name": "Kauvery Hospital Marathahalli Bengaluru",
+        "coordinates": {
+            "latitude": 12.9555332,
+            "longitude": 77.7112917
+        }
+    },
+    {
+        "name": "Hospital",
+        "coordinates": {
+            "latitude": 12.8258404,
+            "longitude": 77.7664805
+        }
+    },
+    {
+        "name": "Apollo Cradle Maternity & Children's Hospital in Brookefield, Bangalore",
+        "coordinates": {
+            "latitude": 12.9668701,
+            "longitude": 77.7172345
+        }
+    },
+    {
+        "name": "Brookefield Hospital - Your Friendly Neighbourhood Hospital",
+        "coordinates": {
+            "latitude": 12.9669727,
+            "longitude": 77.7171044
+        }
+    },
+    {
+        "name": "Manipal Hospital Yeshwanthpur",
+        "coordinates": {
+            "latitude": 13.0140851,
+            "longitude": 77.5560449
+        }
+    },
+    {
+        "name": "Manipal Hospital Malleshwaram",
+        "coordinates": {
+            "latitude": 13.0010554,
+            "longitude": 77.5640478
+        }
+    },
+    {
+        "name": "Health Care Global Enterprises Limited",
+        "coordinates": {
+            "latitude": 13.047713,
+            "longitude": 77.5919039
+        }
+    },
+    {
+        "name": "M. S. Ramaiah Institute of Oncology",
+        "coordinates": {
+            "latitude": 13.0284582,
+            "longitude": 77.569079
+        }
+    },
+    {
+        "name": "DS Prop Care Services",
+        "coordinates": {
+            "latitude": 13.0171569,
+            "longitude": 77.596902
+        }
+    },
+    {
+        "name": "Rajmahal Vilas hospital",
+        "coordinates": {
+            "latitude": 13.032349,
+            "longitude": 77.576973
+        }
+    },
+    {
+        "name": "Apollo Pharmacy - Sahakara Nagar",
+        "coordinates": {
+            "latitude": 13.0632833,
+            "longitude": 77.5912222
+        }
+    },
+    {
+        "name": "CGHS",
+        "coordinates": {
+            "latitude": 13.0228004,
+            "longitude": 77.5863273
+        }
+    },
+    {
+        "name": "Kushi Child Care",
+        "coordinates": {
+            "latitude": 13.0941536,
+            "longitude": 77.5808381
+        }
+    },
+    {
+        "name": "Fortis Hospital, Nagarbhavi",
+        "coordinates": {
+            "latitude": 12.9597522,
+            "longitude": 77.5113053
+        }
+    },
+    {
+        "name": "Sri Sri Ayurveda Hospital - NABH accredited Multi Specialty Ayurveda Hospital in Bengaluru",
+        "coordinates": {
+            "latitude": 12.8221752,
+            "longitude": 77.5217049
+        }
+    },
+    {
+        "name": "\u0cb8\u0cc1\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6 Supurva Hospital",
+        "coordinates": {
+            "latitude": 12.8914126,
+            "longitude": 77.5612298
+        }
+    },
+    {
+        "name": "Kottakkal Arya Vaidya Sala",
+        "coordinates": {
+            "latitude": 12.8955787,
+            "longitude": 77.5553168
+        }
+    },
+    {
+        "name": "Divyasree speciality clinic",
+        "coordinates": {
+            "latitude": 12.8576501,
+            "longitude": 77.5891337
+        }
+    },
+    {
+        "name": "The Sure Foundation Medical Centre",
+        "coordinates": {
+            "latitude": 12.9253268,
+            "longitude": 77.6696111
+        }
+    },
+    {
+        "name": "Sarathy Hospital & Dental Frames Ejipura",
+        "coordinates": {
+            "latitude": 12.9494791,
+            "longitude": 77.6234196
+        }
+    },
+    {
+        "name": "Sun Surgicals",
+        "coordinates": {
+            "latitude": 12.999931,
+            "longitude": 77.683376
+        }
+    },
+    {
+        "name": "Dr. EV Raman | Best ENT Specialist in Old Airport Road | Manipal Hospital Old Airport Road",
+        "coordinates": {
+            "latitude": 12.9585073,
+            "longitude": 77.6489188
+        }
+    },
+    {
+        "name": "Hello Health Services Pvt. Ltd.",
+        "coordinates": {
+            "latitude": 12.9687508,
+            "longitude": 77.6422248
+        }
+    },
+    {
+        "name": "NYICS",
+        "coordinates": {
+            "latitude": 12.9363782,
+            "longitude": 77.6271887
+        }
+    },
+    {
+        "name": "Annayya Hospital",
+        "coordinates": {
+            "latitude": 12.9182778,
+            "longitude": 77.638138
+        }
+    },
+    {
+        "name": "Central Government Health Scheme",
+        "coordinates": {
+            "latitude": 12.9760666,
+            "longitude": 77.6253385
+        }
+    },
+    {
+        "name": "Victoria Hospital",
+        "coordinates": {
+            "latitude": 12.9643083,
+            "longitude": 77.5754198
+        }
+    },
+    {
+        "name": "Blood Bank",
+        "coordinates": {
+            "latitude": 12.9623887,
+            "longitude": 77.5914637
+        }
+    },
+    {
+        "name": "F.M. Eye Clinic And Surgical Centre",
+        "coordinates": {
+            "latitude": 12.9961523,
+            "longitude": 77.6071654
+        }
+    },
+    {
+        "name": "Narayana Institute of Cardiac Sciences, Bommasandra",
+        "coordinates": {
+            "latitude": 12.8094647,
+            "longitude": 77.6953028
+        }
+    },
+    {
+        "name": "Springleaf Hospital",
+        "coordinates": {
+            "latitude": 12.8525896,
+            "longitude": 77.6675444
+        }
+    },
+    {
+        "name": "Parimala Health Care Services",
+        "coordinates": {
+            "latitude": 12.9005836,
+            "longitude": 77.6004344
+        }
+    },
+    {
+        "name": "Gangothri Hospital",
+        "coordinates": {
+            "latitude": 12.9164075,
+            "longitude": 77.6137832
+        }
+    },
+    {
+        "name": "Apollo Pharmacy - HSR Layout",
+        "coordinates": {
+            "latitude": 12.9123014,
+            "longitude": 77.6328617
+        }
+    },
+    {
+        "name": "Jayashree Multi Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.8819315,
+            "longitude": 77.6260324
+        }
+    },
+    {
+        "name": "Aswad Hospital",
+        "coordinates": {
+            "latitude": 12.9077569,
+            "longitude": 77.629941
+        }
+    },
+    {
+        "name": "Vimalalaya Hospital",
+        "coordinates": {
+            "latitude": 12.8349475,
+            "longitude": 77.6803671
+        }
+    },
+    {
+        "name": "Vijaya Bank Health Center",
+        "coordinates": {
+            "latitude": 12.8949756,
+            "longitude": 77.6086865
+        }
+    },
+    {
+        "name": "Spurthy Hospital",
+        "coordinates": {
+            "latitude": 12.9239013,
+            "longitude": 77.6113542
+        }
+    },
+    {
+        "name": "Government Primary Health Center",
+        "coordinates": {
+            "latitude": 12.8723095,
+            "longitude": 77.6521458
+        }
+    },
+    {
+        "name": "Likhith Orthopedic Specialities And Diagnostics - Medfine Hospital",
+        "coordinates": {
+            "latitude": 12.9196961,
+            "longitude": 77.6139987
+        }
+    },
+    {
+        "name": "Sri Sairam Hospital - BTM Layout",
+        "coordinates": {
+            "latitude": 12.914413,
+            "longitude": 77.6002987
+        }
+    },
+    {
+        "name": "ESI Hospital",
+        "coordinates": {
+            "latitude": 12.7569462,
+            "longitude": 77.7989782
+        }
+    },
+    {
+        "name": "Aramba Sugathara Nilayam",
+        "coordinates": {
+            "latitude": 12.7494574,
+            "longitude": 77.8036362
+        }
+    },
+    {
+        "name": "BMS Multi Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.7482749,
+            "longitude": 77.8064311
+        }
+    },
+    {
+        "name": "Lakshmi Hospital",
+        "coordinates": {
+            "latitude": 12.7453598,
+            "longitude": 77.8226244
+        }
+    },
+    {
+        "name": "Dr Agarwals Eye Hospital",
+        "coordinates": {
+            "latitude": 12.7405667,
+            "longitude": 77.8205621
+        }
+    },
+    {
+        "name": "Agape Hospital",
+        "coordinates": {
+            "latitude": 12.802844,
+            "longitude": 77.857066
+        }
+    },
+    {
+        "name": "MEDI Clinic",
+        "coordinates": {
+            "latitude": 12.7413931,
+            "longitude": 77.8331976
+        }
+    },
+    {
+        "name": "SBS Hospital Private Limited",
+        "coordinates": {
+            "latitude": 12.73399,
+            "longitude": 77.826126
+        }
+    },
+    {
+        "name": "Lakshmi Hospital",
+        "coordinates": {
+            "latitude": 12.7327374,
+            "longitude": 77.8255561
+        }
+    },
+    {
+        "name": "Surya Multispeciality hospital s ind pvt Ltd",
+        "coordinates": {
+            "latitude": 12.7329282,
+            "longitude": 77.8257895
+        }
+    },
+    {
+        "name": "Gunam Super Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.7296794,
+            "longitude": 77.824521
+        }
+    },
+    {
+        "name": "Clumax Diagnostics",
+        "coordinates": {
+            "latitude": 12.7281697,
+            "longitude": 77.8245091
+        }
+    },
+    {
+        "name": "NephroPlus Dialysis & Kidney Care Centre",
+        "coordinates": {
+            "latitude": 12.7283932,
+            "longitude": 77.8244846
+        }
+    },
+    {
+        "name": "Global Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.8085556,
+            "longitude": 77.6992778
+        }
+    },
+    {
+        "name": "Mazumdar Shaw Translational Centre",
+        "coordinates": {
+            "latitude": 12.8093449,
+            "longitude": 77.6961618
+        }
+    },
+    {
+        "name": "Dr. Prabhu Dev - Orthopedic & Joint Replacement Surgeon",
+        "coordinates": {
+            "latitude": 12.7197311,
+            "longitude": 77.8219766
+        }
+    },
+    {
+        "name": "Cryovault | Best Stem Cell Banking & Umbilical Cord | Bangalore",
+        "coordinates": {
+            "latitude": 13.1396477,
+            "longitude": 77.6768204
+        }
+    },
+    {
+        "name": "Vikrant Hospital",
+        "coordinates": {
+            "latitude": 13.1427806,
+            "longitude": 77.6726201
+        }
+    },
+    {
+        "name": "SLV POLY CLINIC & MEDICAL STORE",
+        "coordinates": {
+            "latitude": 13.1419014,
+            "longitude": 77.6712826
+        }
+    },
+    {
+        "name": "Primary Health Centre - Bagalur",
+        "coordinates": {
+            "latitude": 13.1416894,
+            "longitude": 77.6703332
+        }
+    },
+    {
+        "name": "Government hospital Bagalur",
+        "coordinates": {
+            "latitude": 13.1416231,
+            "longitude": 77.6702969
+        }
+    },
+    {
+        "name": "MAZHAR LAYOUT",
+        "coordinates": {
+            "latitude": 13.1455774,
+            "longitude": 77.6682523
+        }
+    },
+    {
+        "name": "Jaya clinic",
+        "coordinates": {
+            "latitude": 13.1336725,
+            "longitude": 77.6694415
+        }
+    },
+    {
+        "name": "Relive Hospital - Bagalur",
+        "coordinates": {
+            "latitude": 13.1334369,
+            "longitude": 77.6662911
+        }
+    },
+    {
+        "name": "New Bangalore hospital",
+        "coordinates": {
+            "latitude": 13.1334617,
+            "longitude": 77.66618
+        }
+    },
+    {
+        "name": "Trupti Pharma and Trupti clinic",
+        "coordinates": {
+            "latitude": 13.1326695,
+            "longitude": 77.6659356
+        }
+    },
+    {
+        "name": "Mediplus Bagaluru",
+        "coordinates": {
+            "latitude": 13.1324277,
+            "longitude": 77.6652473
+        }
+    },
+    {
+        "name": "Sri Gurukrupa medicals & Sri Maruthi Hospital",
+        "coordinates": {
+            "latitude": 13.1323619,
+            "longitude": 77.6646687
+        }
+    },
+    {
+        "name": "Mathrushree Hospital",
+        "coordinates": {
+            "latitude": 13.0938986,
+            "longitude": 77.3929585
+        }
+    },
+    {
+        "name": "Maruthi Medicals",
+        "coordinates": {
+            "latitude": 12.9652349,
+            "longitude": 77.4004842
+        }
+    },
+    {
+        "name": "Nelamangala Taluk General Hospital Bangalore Rural District",
+        "coordinates": {
+            "latitude": 13.0996137,
+            "longitude": 77.391246
+        }
+    },
+    {
+        "name": "Sri doddabeereshwara clinic and medical store",
+        "coordinates": {
+            "latitude": 13.0280099,
+            "longitude": 77.3927304
+        }
+    },
+    {
+        "name": "Sondekoppa Government Hospital",
+        "coordinates": {
+            "latitude": 13.0227726,
+            "longitude": 77.3843912
+        }
+    },
+    {
+        "name": "\u0cae\u0c82\u0ca5\u0ca8 \u0c96\u0cc1\u0cb0\u0ccd\u0c9a\u0cbf",
+        "coordinates": {
+            "latitude": 13.0430386,
+            "longitude": 77.3834601
+        }
+    },
+    {
+        "name": "Lekkenahalli MPCS KMF",
+        "coordinates": {
+            "latitude": 13.0432604,
+            "longitude": 77.3976529
+        }
+    },
+    {
+        "name": "Soriyassis desi doctor chicken byrappa",
+        "coordinates": {
+            "latitude": 13.02931,
+            "longitude": 77.36832
+        }
+    },
+    {
+        "name": "governament vet hospital",
+        "coordinates": {
+            "latitude": 13.0214067,
+            "longitude": 77.4233069
+        }
+    },
+    {
+        "name": "Government hospital Soladevanahalli",
+        "coordinates": {
+            "latitude": 13.0149178,
+            "longitude": 77.3512075
+        }
+    },
+    {
+        "name": "Keerthana Eye Hospital",
+        "coordinates": {
+            "latitude": 13.0093875,
+            "longitude": 77.4252727
+        }
+    },
+    {
+        "name": "Hospital",
+        "coordinates": {
+            "latitude": 13.0494828,
+            "longitude": 77.3466938
+        }
+    },
+    {
+        "name": "\u0cb6\u0cbf\u0cb5\u0ca3\u0ccd\u0ca3 \u0c86\u0caf\u0cc1\u0cb0\u0ccd\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0ccd \u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0",
+        "coordinates": {
+            "latitude": 13.0670641,
+            "longitude": 77.3612463
+        }
+    },
+    {
+        "name": "Asha Kirana Ayurvedic Hospital -Shivanna",
+        "coordinates": {
+            "latitude": 13.0681549,
+            "longitude": 77.3621278
+        }
+    },
+    {
+        "name": "Bhattarahalli nati vidhya krishnnappa",
+        "coordinates": {
+            "latitude": 13.0514383,
+            "longitude": 77.3462438
+        }
+    },
+    {
+        "name": "Rosy Royal Homoeopathic Medical College & Hospital",
+        "coordinates": {
+            "latitude": 13.0771883,
+            "longitude": 77.3964993
+        }
+    },
+    {
+        "name": "\u0c86\u0cb6\u0cbe \u0c95\u0cbf\u0cb0\u0ca3 \u0c9a\u0cbf\u0c95\u0cbf\u0ca4\u0ccd\u0cb8\u0cbe\u0cb2\u0caf ( \u0cad\u0c9f\u0ccd\u0c9f\u0cb0 \u0cb9\u0cb3\u0ccd\u0cb3\u0cbf ) \u0cb6\u0cbf\u0cb5\u0ca3\u0ccd\u0ca3",
+        "coordinates": {
+            "latitude": 13.065422,
+            "longitude": 77.3525088
+        }
+    },
+    {
+        "name": "Sri sai sneha vrudhashrama",
+        "coordinates": {
+            "latitude": 12.9847695,
+            "longitude": 77.4079576
+        }
+    },
+    {
+        "name": "10days",
+        "coordinates": {
+            "latitude": 13.028344,
+            "longitude": 77.439734
+        }
+    },
+    {
+        "name": "Nagaraju Battarahalli Bone Alinement Center",
+        "coordinates": {
+            "latitude": 13.0480058,
+            "longitude": 77.3395353
+        }
+    },
+    {
+        "name": "Shree Kempegowda Hospital",
+        "coordinates": {
+            "latitude": 13.2802021,
+            "longitude": 77.5537596
+        }
+    },
+    {
+        "name": "Manasa Hospital",
+        "coordinates": {
+            "latitude": 13.3037055,
+            "longitude": 77.5443011
+        }
+    },
+    {
+        "name": "We CARE MULTI SPECIALITY HOSPITAL AND ICU",
+        "coordinates": {
+            "latitude": 13.305054,
+            "longitude": 77.5451802
+        }
+    },
+    {
+        "name": "Indian Institute Of Ayurvedic Medicine And Research",
+        "coordinates": {
+            "latitude": 13.2536077,
+            "longitude": 77.6086768
+        }
+    },
+    {
+        "name": "Government Ayurveda dispensary",
+        "coordinates": {
+            "latitude": 13.217809,
+            "longitude": 77.610235
+        }
+    },
+    {
+        "name": "Government primary Health centre",
+        "coordinates": {
+            "latitude": 13.257436,
+            "longitude": 77.6191783
+        }
+    },
+    {
+        "name": "PHC Kundana, Devanahalli, Bangalore Rural",
+        "coordinates": {
+            "latitude": 13.257602,
+            "longitude": 77.6195156
+        }
+    },
+    {
+        "name": "Dr. Sinshi K K, 10+ yrs of Exp | Best Dentist in Bangalore | RCT | Wisdom Teeth Removal",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Best Dentist - Dr. Jansi Sankar, Treated 11K+ Patients | Dentist Near Me | Best Dentist | Root Canal Treatment",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Dr. Kavitha K, 12+ yrs of Exp | Best Dentist in Bangalore | RCT | Wisdom Teeth Removal",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Dr. Syeda Fazilath Iqbal, 21+ yrs of Exp | Best Dentist in Bangalore | RCT | Wisdom Teeth Removal",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Dr. Gauhar Jahan, 25+ yrs of Exp | Best Gynaecologist in Bangalore | Ovarian Cyst | MTP | Fibroid | Cesarean | Lap Gynae",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Best General Physician - Dr. Kilambi Hiranmayi, 18+ yrs of Exp | Fever & Diabetes Doctor | Bangalore",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Dr. Mageshwari M",
+        "coordinates": {
+            "latitude": 13.2257,
+            "longitude": 77.575
+        }
+    },
+    {
+        "name": "Murali Residency",
+        "coordinates": {
+            "latitude": 13.258167,
+            "longitude": 77.6279381
+        }
+    },
+    {
+        "name": "Health And Wellness centre Kundana",
+        "coordinates": {
+            "latitude": 13.2579515,
+            "longitude": 77.6322037
+        }
+    },
+    {
+        "name": "Ayur home care - Ayurvedic doctor clinic in Bangalore",
+        "coordinates": {
+            "latitude": 13.2526156,
+            "longitude": 77.5621885
+        }
+    },
+    {
+        "name": "Shree tirumala medical",
+        "coordinates": {
+            "latitude": 13.2527172,
+            "longitude": 77.5612401
+        }
+    },
+    {
+        "name": "Kundana Paralysis Hospital",
+        "coordinates": {
+            "latitude": 13.25674,
+            "longitude": 77.638776
+        }
+    },
+    {
+        "name": "Aradeshanhalli PHC",
+        "coordinates": {
+            "latitude": 13.2201994,
+            "longitude": 77.5616984
+        }
+    },
+    {
+        "name": "Shree CHAWDESHWARI medical & general store",
+        "coordinates": {
+            "latitude": 13.2799623,
+            "longitude": 77.6253878
+        }
+    },
+    {
+        "name": "PHC VISHWANATHPURA",
+        "coordinates": {
+            "latitude": 13.2736855,
+            "longitude": 77.6372326
+        }
+    },
+    {
+        "name": "Govt. Hospital, Vishwanathapura",
+        "coordinates": {
+            "latitude": 13.270875,
+            "longitude": 77.6439857
+        }
+    },
+    {
+        "name": "Dental Zone",
+        "coordinates": {
+            "latitude": 12.9421275,
+            "longitude": 77.697313
+        }
+    },
+    {
+        "name": "FamilyCare Homeopathy MultiSpeciality Homeopathy Clinic",
+        "coordinates": {
+            "latitude": 12.9524732,
+            "longitude": 77.7063255
+        }
+    },
+    {
+        "name": "NUSMILES Dental Clinic",
+        "coordinates": {
+            "latitude": 12.9526258,
+            "longitude": 77.7059365
+        }
+    },
+    {
+        "name": "The Family Doctor & The Family Pharma Marathahalli",
+        "coordinates": {
+            "latitude": 12.9568644,
+            "longitude": 77.7076047
+        }
+    },
+    {
+        "name": "Hope Hospital, Marathahalli",
+        "coordinates": {
+            "latitude": 12.9581018,
+            "longitude": 77.7085833
+        }
+    },
+    {
+        "name": "Virginia Developers Private Limited",
+        "coordinates": {
+            "latitude": 12.9255913,
+            "longitude": 77.6869544
+        }
+    },
+    {
+        "name": "Akash Institutions",
+        "coordinates": {
+            "latitude": 13.2335548,
+            "longitude": 77.7096246
+        }
+    },
+    {
+        "name": "idrishti Eye Hospital Devanahalli",
+        "coordinates": {
+            "latitude": 13.250792,
+            "longitude": 77.7157274
+        }
+    },
+    {
+        "name": "Jan Aushadhi Store",
+        "coordinates": {
+            "latitude": 13.2565817,
+            "longitude": 77.7263901
+        }
+    },
+    {
+        "name": "Trust Aid Hospital & Pharmacy",
+        "coordinates": {
+            "latitude": 13.206095,
+            "longitude": 77.6681023
+        }
+    },
+    {
+        "name": "Maruthi pharam and general stores",
+        "coordinates": {
+            "latitude": 13.1834136,
+            "longitude": 77.6798448
+        }
+    },
+    {
+        "name": "SHREE GANESH PHARMA AND MEDICAL",
+        "coordinates": {
+            "latitude": 13.1909542,
+            "longitude": 77.6458445
+        }
+    },
+    {
+        "name": "Dr. Venkatachalapathy TS - Best Neonatal Pediatric Surgeon in Hebbal.",
+        "coordinates": {
+            "latitude": 13.198006,
+            "longitude": 77.6893475
+        }
+    },
+    {
+        "name": "Primary health centre sadahalli",
+        "coordinates": {
+            "latitude": 13.206188,
+            "longitude": 77.6459076
+        }
+    },
+    {
+        "name": "Govt PHC",
+        "coordinates": {
+            "latitude": 13.2066756,
+            "longitude": 77.6445118
+        }
+    },
+    {
+        "name": "Govt Hospital Sadahalli",
+        "coordinates": {
+            "latitude": 13.2047624,
+            "longitude": 77.6429306
+        }
+    },
+    {
+        "name": "Shree Dhanvantri Medicals & G Stores",
+        "coordinates": {
+            "latitude": 13.1831862,
+            "longitude": 77.6410907
+        }
+    },
+    {
+        "name": "COV-AID@BLR",
+        "coordinates": {
+            "latitude": 13.2003391,
+            "longitude": 77.6932264
+        }
+    },
+    {
+        "name": "Mother Theresa Hospital",
+        "coordinates": {
+            "latitude": 13.2232823,
+            "longitude": 77.668608
+        }
+    },
+    {
+        "name": "govt hospital",
+        "coordinates": {
+            "latitude": 13.1724861,
+            "longitude": 77.6908049
+        }
+    },
+    {
+        "name": "Bus stop",
+        "coordinates": {
+            "latitude": 13.1724861,
+            "longitude": 77.6908049
+        }
+    },
+    {
+        "name": "SRI RATHNA MEDICAL & GENERAL STORE",
+        "coordinates": {
+            "latitude": 13.1627707,
+            "longitude": 77.6472741
+        }
+    },
+    {
+        "name": "Masonic Rural Clinic , Chikkajala",
+        "coordinates": {
+            "latitude": 13.1693329,
+            "longitude": 77.6390421
+        }
+    },
+    {
+        "name": "Kruthik Polyclinic",
+        "coordinates": {
+            "latitude": 13.1728837,
+            "longitude": 77.6349922
+        }
+    },
+    {
+        "name": "Government Hospital",
+        "coordinates": {
+            "latitude": 13.1735203,
+            "longitude": 77.6345152
+        }
+    },
+    {
+        "name": "Amruth ayurvedic clinic",
+        "coordinates": {
+            "latitude": 13.1429558,
+            "longitude": 77.6291024
+        }
+    },
+    {
+        "name": "KARNATAKA SIDDAAYURVEDA AND ALTERNATIVE MEDICINE HOSPITAL",
+        "coordinates": {
+            "latitude": 13.1587104,
+            "longitude": 77.6468376
+        }
+    },
+    {
+        "name": "Government Veterinary Hospital",
+        "coordinates": {
+            "latitude": 13.1311597,
+            "longitude": 77.6483346
+        }
+    },
+    {
+        "name": "Smiles Gastroenterology",
+        "coordinates": {
+            "latitude": 13.2891856,
+            "longitude": 77.6994197
+        }
+    },
+    {
+        "name": "Serene Mind Clinic",
+        "coordinates": {
+            "latitude": 13.2829206,
+            "longitude": 77.7035396
+        }
+    },
+    {
+        "name": "Dr.Omesh's R K clinic",
+        "coordinates": {
+            "latitude": 13.2990572,
+            "longitude": 77.7001261
+        }
+    },
+    {
+        "name": "LAKSHMI MEDICALS AND GENARAL STORE",
+        "coordinates": {
+            "latitude": 13.3001747,
+            "longitude": 77.7005655
+        }
+    },
+    {
+        "name": "Government Hospital",
+        "coordinates": {
+            "latitude": 13.3048941,
+            "longitude": 77.6408362
+        }
+    },
+    {
+        "name": "Thirumala medical and general store",
+        "coordinates": {
+            "latitude": 13.277514,
+            "longitude": 77.7128947
+        }
+    },
+    {
+        "name": "Indus Villas",
+        "coordinates": {
+            "latitude": 13.2744982,
+            "longitude": 77.7135287
+        }
+    },
+    {
+        "name": "ESI",
+        "coordinates": {
+            "latitude": 13.256912,
+            "longitude": 77.711961
+        }
+    },
+    {
+        "name": "Government Hospital Karahalli",
+        "coordinates": {
+            "latitude": 13.3243032,
+            "longitude": 77.6930279
+        }
+    },
+    {
+        "name": "BSF Hospital",
+        "coordinates": {
+            "latitude": 13.3293379,
+            "longitude": 77.6757123
+        }
+    },
+    {
+        "name": "PHC karahalli",
+        "coordinates": {
+            "latitude": 13.3271279,
+            "longitude": 77.688951
+        }
+    },
+    {
+        "name": "Ashma Nursing Home",
+        "coordinates": {
+            "latitude": 12.8821116,
+            "longitude": 77.7770275
+        }
+    },
+    {
+        "name": "DR. PRAKHAR MISHRA | Best Orthopaedic Surgeon | Exp of 5+yrs | at Apollo 24|7",
+        "coordinates": {
+            "latitude": 12.8702547,
+            "longitude": 77.7669753
+        }
+    },
+    {
+        "name": "Dr. Pamila Aloysious(MBBS) -General Physician |Best Doctor for Diabetes,Cold and Cough,Allergy and Infection ,Fever",
+        "coordinates": {
+            "latitude": 12.8702547,
+            "longitude": 77.7669753
+        }
+    },
+    {
+        "name": "Dr. Prakash Kumar(MBBS,MS(ENT)) -ENT Specialist |Best Doctor for Ear Checkup,Throat pain ,Nose infection,Ear Wax removal",
+        "coordinates": {
+            "latitude": 12.8702547,
+            "longitude": 77.7669753
+        }
+    },
+    {
+        "name": "L V Hospitals",
+        "coordinates": {
+            "latitude": 12.870881,
+            "longitude": 77.7662961
+        }
+    },
+    {
+        "name": "Spandana Heart & Super Speciality Hospital | Neurologist | Urologist | Gastroenterologist | Orthopaedics in Sarjapur",
+        "coordinates": {
+            "latitude": 12.8671939,
+            "longitude": 77.767433
+        }
+    },
+    {
+        "name": "Spandana Hospital",
+        "coordinates": {
+            "latitude": 12.8671917,
+            "longitude": 77.7674338
+        }
+    },
+    {
+        "name": "Kottakal Arya Vaidya Sala- Punarjani Ayurveda",
+        "coordinates": {
+            "latitude": 12.8648153,
+            "longitude": 77.7691749
+        }
+    },
+    {
+        "name": "Dr.Vijay Laxmi Singh | Ayurveda Consultant & Infertility Specialist | Best Ayurveda Doctor with 12+ Years of Experience.",
+        "coordinates": {
+            "latitude": 12.8645194,
+            "longitude": 77.7694995
+        }
+    },
+    {
+        "name": "Satya SaiHospital",
+        "coordinates": {
+            "latitude": 12.8637789,
+            "longitude": 77.7715039
+        }
+    },
+    {
+        "name": "Rent For Hospital",
+        "coordinates": {
+            "latitude": 12.8642518,
+            "longitude": 77.7694114
+        }
+    },
+    {
+        "name": "Carewell Hospital",
+        "coordinates": {
+            "latitude": 13.0831303,
+            "longitude": 77.5486462
+        }
+    },
+    {
+        "name": "Rishi Acupuncture Clinic",
+        "coordinates": {
+            "latitude": 13.0825722,
+            "longitude": 77.5545939
+        }
+    },
+    {
+        "name": "NIKISA Healthcare Services",
+        "coordinates": {
+            "latitude": 13.0811408,
+            "longitude": 77.5612423
+        }
+    },
+    {
+        "name": "Government Hospital",
+        "coordinates": {
+            "latitude": 13.0803156,
+            "longitude": 77.5535095
+        }
+    },
+    {
+        "name": "Rajalakshmi Hospital & Research Center",
+        "coordinates": {
+            "latitude": 13.0842607,
+            "longitude": 77.5309098
+        }
+    },
+    {
+        "name": "Eskay Healthcare",
+        "coordinates": {
+            "latitude": 13.0614634,
+            "longitude": 77.5180124
+        }
+    },
+    {
+        "name": "Maruthi medicals",
+        "coordinates": {
+            "latitude": 13.07375,
+            "longitude": 77.5180204
+        }
+    },
+    {
+        "name": "Akash Hospital",
+        "coordinates": {
+            "latitude": 13.2332788,
+            "longitude": 77.7078314
+        }
+    },
+    {
+        "name": "Mediplus Devanahalli Bypass",
+        "coordinates": {
+            "latitude": 13.2434904,
+            "longitude": 77.7073368
+        }
+    },
+    {
+        "name": "MedEx Pharma",
+        "coordinates": {
+            "latitude": 13.2256163,
+            "longitude": 77.7129605
+        }
+    },
+    {
+        "name": "JD GROUP HOSPITALS -SMOT HOSPITAL and Dr Keerthana\u2019s COSMEDIC TRIOLOGY (Skin, Hair and Lasers)",
+        "coordinates": {
+            "latitude": 13.2444738,
+            "longitude": 77.7110849
+        }
+    },
+    {
+        "name": "ASTHRA PHARMACY",
+        "coordinates": {
+            "latitude": 13.244041,
+            "longitude": 77.7112571
+        }
+    },
+    {
+        "name": "Sree Manjunatha Orthopaedic & Trauma Hospital",
+        "coordinates": {
+            "latitude": 13.2443827,
+            "longitude": 77.7112108
+        }
+    },
+    {
+        "name": "Kalyani Ayurveda and marma",
+        "coordinates": {
+            "latitude": 13.2417861,
+            "longitude": 77.712224
+        }
+    },
+    {
+        "name": "DEVANAHALLI HEALTH SERVICES",
+        "coordinates": {
+            "latitude": 13.2417209,
+            "longitude": 77.7125383
+        }
+    },
+    {
+        "name": "Sri Shirdi Sai Hospital",
+        "coordinates": {
+            "latitude": 13.2443368,
+            "longitude": 77.7118385
+        }
+    },
+    {
+        "name": "Dr Dilip (Skin Specialist)",
+        "coordinates": {
+            "latitude": 13.2426251,
+            "longitude": 77.7131106
+        }
+    },
+    {
+        "name": "Ramaiah Leena Hospital",
+        "coordinates": {
+            "latitude": 13.2426611,
+            "longitude": 77.7131641
+        }
+    },
+    {
+        "name": "Sri Basveshwar Medical & General Stores",
+        "coordinates": {
+            "latitude": 13.2458742,
+            "longitude": 77.7121791
+        }
+    },
+    {
+        "name": "Prolife Multi Speciality Hospital Bangalore | Ortho Care | Accident & Trauma Care | Neuro Center",
+        "coordinates": {
+            "latitude": 13.0649206,
+            "longitude": 77.5936374
+        }
+    },
+    {
+        "name": "sameeksha",
+        "coordinates": {
+            "latitude": 12.8991536,
+            "longitude": 77.549501
+        }
+    },
+    {
+        "name": "TMAE society Ayurvedic Medical College , PG RESEARCH CENTRE & SCS Hospital, VIJAYANAGARA",
+        "coordinates": {
+            "latitude": 15.2643193,
+            "longitude": 76.4110192
+        }
+    },
+    {
+        "name": "Govt. Hospital",
+        "coordinates": {
+            "latitude": 15.3531407,
+            "longitude": 76.4920811
+        }
+    },
+    {
+        "name": "Community Health Centre",
+        "coordinates": {
+            "latitude": 15.2967218,
+            "longitude": 76.4810645
+        }
+    },
+    {
+        "name": "Valley Ball Ground",
+        "coordinates": {
+            "latitude": 15.2971298,
+            "longitude": 76.4797642
+        }
+    },
+    {
+        "name": "Govt. Veterinary Hospital",
+        "coordinates": {
+            "latitude": 15.2973614,
+            "longitude": 76.4808911
+        }
+    },
+    {
+        "name": "Sudha Clinic",
+        "coordinates": {
+            "latitude": 15.3028291,
+            "longitude": 76.4732363
+        }
+    },
+    {
+        "name": "Sri Venkateshwara Medical and General stores",
+        "coordinates": {
+            "latitude": 15.3039205,
+            "longitude": 76.4747256
+        }
+    },
+    {
+        "name": "SHRI AYURDHAM CLINIC",
+        "coordinates": {
+            "latitude": 15.3050093,
+            "longitude": 76.4767985
+        }
+    },
+    {
+        "name": "Govt. Hospital Kamalapur",
+        "coordinates": {
+            "latitude": 15.3074644,
+            "longitude": 76.4746348
+        }
+    },
+    {
+        "name": "School Ingaligi",
+        "coordinates": {
+            "latitude": 15.2550267,
+            "longitude": 76.4505243
+        }
+    },
+    {
+        "name": "Govt Primary Health Centre",
+        "coordinates": {
+            "latitude": 15.2775689,
+            "longitude": 76.4310697
+        }
+    },
+    {
+        "name": "Doctor Mallappa Clinic",
+        "coordinates": {
+            "latitude": 15.2849332,
+            "longitude": 76.429745
+        }
+    },
+    {
+        "name": "Kulkarni Nursing Home",
+        "coordinates": {
+            "latitude": 15.2650606,
+            "longitude": 76.4273844
+        }
+    },
+    {
+        "name": "Primary Health Centre Sub-Unit",
+        "coordinates": {
+            "latitude": 15.2432708,
+            "longitude": 76.5243482
+        }
+    },
+    {
+        "name": "Paralysis Ayurvedic center",
+        "coordinates": {
+            "latitude": 15.2537154,
+            "longitude": 76.4277612
+        }
+    },
+    {
+        "name": "Veterinary Dispensary, Byluvaddigeri",
+        "coordinates": {
+            "latitude": 15.2411049,
+            "longitude": 76.5274934
+        }
+    },
+    {
+        "name": "Dhanvaintri Clinic",
+        "coordinates": {
+            "latitude": 15.264738,
+            "longitude": 76.4145485
+        }
+    },
+    {
+        "name": "TMAES AMC HPT HOSPITAL",
+        "coordinates": {
+            "latitude": 15.2643185,
+            "longitude": 76.4110224
+        }
+    },
+    {
+        "name": "NaguMagu children\u2019s hospital(\u0ca8\u0c97\u0cc1 \u0cae\u0c97\u0cc1)",
+        "coordinates": {
+            "latitude": 15.2641337,
+            "longitude": 76.4054995
+        }
+    },
+    {
+        "name": "S L V Medical Stores",
+        "coordinates": {
+            "latitude": 15.345569,
+            "longitude": 76.457532
+        }
+    },
+    {
+        "name": "Sri Aakrithis Dental Lounge And Maxillofacial Center",
+        "coordinates": {
+            "latitude": 12.9132249,
+            "longitude": 77.6797724
+        }
+    },
+    {
+        "name": "Parkmed Hospital",
+        "coordinates": {
+            "latitude": 12.9211032,
+            "longitude": 77.6812581
+        }
+    },
+    {
+        "name": "Dr.Sunny Medical Centre",
+        "coordinates": {
+            "latitude": 12.9109295,
+            "longitude": 77.6763848
+        }
+    },
+    {
+        "name": "AyurCentral Sarjapur Road/ Kasavanahalli Main Road",
+        "coordinates": {
+            "latitude": 12.909384,
+            "longitude": 77.6760869
+        }
+    },
+    {
+        "name": "BN speciality Hospital, Kasavanahalli, Bangalore",
+        "coordinates": {
+            "latitude": 12.9124604,
+            "longitude": 77.676517
+        }
+    },
+    {
+        "name": "Sakra World Hospital",
+        "coordinates": {
+            "latitude": 12.9319239,
+            "longitude": 77.6853132
+        }
+    },
+    {
+        "name": "Motherhood Hospital - Sarjapur",
+        "coordinates": {
+            "latitude": 12.9178603,
+            "longitude": 77.6722892
+        }
+    },
+    {
+        "name": "Apollo Pharmacy - Devanahalli, Bangalore",
+        "coordinates": {
+            "latitude": 13.2433783,
+            "longitude": 77.7132044
+        }
+    },
+    {
+        "name": "Belagu Children women and skin clinic",
+        "coordinates": {
+            "latitude": 13.243639,
+            "longitude": 77.713093
+        }
+    },
+    {
+        "name": "PADMA SATISH SKIN CLINIC",
+        "coordinates": {
+            "latitude": 13.2455967,
+            "longitude": 77.712426
+        }
+    },
+    {
+        "name": "Chandana Clinic",
+        "coordinates": {
+            "latitude": 13.2449664,
+            "longitude": 77.7129343
+        }
+    },
+    {
+        "name": "Mediplus Devanahalli Bus Stand",
+        "coordinates": {
+            "latitude": 13.2458288,
+            "longitude": 77.7131747
+        }
+    },
+    {
+        "name": "Lakshmi Hospital",
+        "coordinates": {
+            "latitude": 13.0227239,
+            "longitude": 77.7167946
+        }
+    },
+    {
+        "name": "Seegehalli Government Hospital",
+        "coordinates": {
+            "latitude": 13.0163706,
+            "longitude": 77.716942
+        }
+    },
+    {
+        "name": "Sathya Sai Orthopaedic & Multispeciality Hospital",
+        "coordinates": {
+            "latitude": 13.0215649,
+            "longitude": 77.7128617
+        }
+    },
+    {
+        "name": "East Point Hospital",
+        "coordinates": {
+            "latitude": 13.0536826,
+            "longitude": 77.717201
+        }
+    },
+    {
+        "name": "Unique Smile Dental Care Center",
+        "coordinates": {
+            "latitude": 13.0033671,
+            "longitude": 77.7124402
+        }
+    },
+    {
+        "name": "Sri Lakshmi Super Speciality Hospital",
+        "coordinates": {
+            "latitude": 13.0110954,
+            "longitude": 77.6973553
+        }
+    },
+    {
+        "name": "ESIC",
+        "coordinates": {
+            "latitude": 13.0088945,
+            "longitude": 77.6925737
+        }
+    },
+    {
+        "name": "MTB Orthopaedic Hospital",
+        "coordinates": {
+            "latitude": 12.9951289,
+            "longitude": 77.6954072
+        }
+    },
+    {
+        "name": "MVJ Hospital",
+        "coordinates": {
+            "latitude": 13.0775142,
+            "longitude": 77.8116224
+        }
+    },
+    {
+        "name": "eAarogyaKendra Kurubarahalli, Hoskote",
+        "coordinates": {
+            "latitude": 13.1016126,
+            "longitude": 77.7990411
+        }
+    },
+    {
+        "name": "Dr. Jaswanth Ravikanti, Treated 4K+ Patients | Best General Physician | General Physician Near Me | Best Diabetes Doctor",
+        "coordinates": {
+            "latitude": 13.0776,
+            "longitude": 77.8117
+        }
+    },
+    {
+        "name": "Brains Hospital",
+        "coordinates": {
+            "latitude": 13.0771524,
+            "longitude": 77.8115396
+        }
+    },
+    {
+        "name": "MVJ Medical College and Research Hospital",
+        "coordinates": {
+            "latitude": 13.0761067,
+            "longitude": 77.8100624
+        }
+    },
+    {
+        "name": "Vaidhyar Hoskote",
+        "coordinates": {
+            "latitude": 13.0781841,
+            "longitude": 77.800624
+        }
+    },
+    {
+        "name": "Hoskote Th",
+        "coordinates": {
+            "latitude": 13.0770925,
+            "longitude": 77.8011956
+        }
+    },
+    {
+        "name": "Sparsha Hospital",
+        "coordinates": {
+            "latitude": 13.0773502,
+            "longitude": 77.8005434
+        }
+    },
+    {
+        "name": "SAI DIAGNOSTIC & HEALTH CARE",
+        "coordinates": {
+            "latitude": 13.1144037,
+            "longitude": 77.8347017
+        }
+    },
+    {
+        "name": "Sri lakshmi Health center",
+        "coordinates": {
+            "latitude": 13.1157593,
+            "longitude": 77.8362914
+        }
+    },
+    {
+        "name": "\u0caa\u0cb6\u0cc1 \u0c9a\u0cbf\u0c95\u0cbf\u0ca4\u0ccd\u0cb8\u0cbe\u0cb2\u0caf, \u0c95\u0cca\u0cb3\u0ca4\u0cc2\u0cb0\u0cc1, \u0cb9\u0cca\u0cb8\u0c95\u0ccb\u0c9f\u0cc6 \u0ca4\u0cbe||",
+        "coordinates": {
+            "latitude": 13.0757007,
+            "longitude": 77.8269523
+        }
+    },
+    {
+        "name": "Vinayaka Clinic and Day care centre",
+        "coordinates": {
+            "latitude": 13.0787792,
+            "longitude": 77.7894613
+        }
+    },
+    {
+        "name": "Sri Sai Ram pharma",
+        "coordinates": {
+            "latitude": 13.073025,
+            "longitude": 77.7967035
+        }
+    },
+    {
+        "name": "SAPTHAGIRI MEDICALS AND GENERAL STORE",
+        "coordinates": {
+            "latitude": 13.078858,
+            "longitude": 77.7884445
+        }
+    },
+    {
+        "name": "Dr Sathya Hospital",
+        "coordinates": {
+            "latitude": 13.259398,
+            "longitude": 77.7176814
+        }
+    },
+    {
+        "name": "Mediplus Devanahalli Vijayapura Road",
+        "coordinates": {
+            "latitude": 13.2573225,
+            "longitude": 77.7166532
+        }
+    },
+    {
+        "name": "VASAVI MEDICAL",
+        "coordinates": {
+            "latitude": 13.2476225,
+            "longitude": 77.7121669
+        }
+    },
+    {
+        "name": "RAJA'S CLINIC Dr. D.P Nataraja",
+        "coordinates": {
+            "latitude": 13.2477552,
+            "longitude": 77.7123358
+        }
+    },
+    {
+        "name": "New Manasa Hospital",
+        "coordinates": {
+            "latitude": 13.2508158,
+            "longitude": 77.7153231
+        }
+    },
+    {
+        "name": "Arunodaya Hospitals",
+        "coordinates": {
+            "latitude": 13.0570047,
+            "longitude": 77.5085162
+        }
+    },
+    {
+        "name": "Sri Maruthi Medicals",
+        "coordinates": {
+            "latitude": 13.048913,
+            "longitude": 77.4866319
+        }
+    },
+    {
+        "name": "Prakriya Hospitals",
+        "coordinates": {
+            "latitude": 13.0458148,
+            "longitude": 77.5064631
+        }
+    },
+    {
+        "name": "MADHU ORTHO HOSPITAL 24*7",
+        "coordinates": {
+            "latitude": 13.0478864,
+            "longitude": 77.5086345
+        }
+    },
+    {
+        "name": "Kottakkal Arya Vaidya Sala",
+        "coordinates": {
+            "latitude": 13.038895,
+            "longitude": 77.5021914
+        }
+    },
+    {
+        "name": "Manav Charitable Hospital",
+        "coordinates": {
+            "latitude": 13.0532288,
+            "longitude": 77.4833047
+        }
+    },
+    {
+        "name": "Aditi Hearing Solutions - Signia Hearing Aids in Bangalore",
+        "coordinates": {
+            "latitude": 13.045285,
+            "longitude": 77.5082772
+        }
+    },
+    {
+        "name": "\u0c8e\u0ca8\u0ccd.\u0c86\u0cb0\u0ccd.\u0c86\u0cb0\u0ccd.\u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6 N.R.R Hospitals",
+        "coordinates": {
+            "latitude": 13.0561953,
+            "longitude": 77.5100764
+        }
+    },
+    {
+        "name": "Sri maruthi medicals and general stores",
+        "coordinates": {
+            "latitude": 13.0566653,
+            "longitude": 77.4802388
+        }
+    },
+    {
+        "name": "Archana medicals",
+        "coordinates": {
+            "latitude": 13.0478639,
+            "longitude": 77.5133658
+        }
+    },
+    {
+        "name": "Suraksha Dental Clinic",
+        "coordinates": {
+            "latitude": 13.0670314,
+            "longitude": 77.5020801
+        }
+    },
+    {
+        "name": "Vijaya Hospital",
+        "coordinates": {
+            "latitude": 13.0464685,
+            "longitude": 77.5148129
+        }
+    },
+    {
+        "name": "Maruthi",
+        "coordinates": {
+            "latitude": 13.0676274,
+            "longitude": 77.5047445
+        }
+    },
+    {
+        "name": "People Tree Hospitals @ Dasarahalli",
+        "coordinates": {
+            "latitude": 13.0424837,
+            "longitude": 77.5155802
+        }
+    },
+    {
+        "name": "lakshmideep ENT wellness centre",
+        "coordinates": {
+            "latitude": 13.0416923,
+            "longitude": 77.5158442
+        }
+    },
+    {
+        "name": "Sapthagiri Super Speciality Hospital",
+        "coordinates": {
+            "latitude": 13.0706389,
+            "longitude": 77.5024795
+        }
+    },
+    {
+        "name": "Sree Ayyappan Temple Medical Centre",
+        "coordinates": {
+            "latitude": 13.0471079,
+            "longitude": 77.5201689
+        }
+    },
+    {
+        "name": "Dr Sandeep B V",
+        "coordinates": {
+            "latitude": 12.8559026,
+            "longitude": 77.7985186
+        }
+    },
+    {
+        "name": "Dr Byre",
+        "coordinates": {
+            "latitude": 12.8599344,
+            "longitude": 77.7913715
+        }
+    },
+    {
+        "name": "Town Hospital Sarjapura",
+        "coordinates": {
+            "latitude": 12.8605805,
+            "longitude": 77.7898755
+        }
+    },
+    {
+        "name": "SURYA MEDICALS",
+        "coordinates": {
+            "latitude": 12.8598994,
+            "longitude": 77.7877384
+        }
+    },
+    {
+        "name": "Srinivas clinic",
+        "coordinates": {
+            "latitude": 12.8597285,
+            "longitude": 77.7872858
+        }
+    },
+    {
+        "name": "Sapthagiri Dental Clinic And Ortho Center Sarjapura",
+        "coordinates": {
+            "latitude": 12.8600178,
+            "longitude": 77.7871722
+        }
+    },
+    {
+        "name": "Sri Maruthi Clinic Sarjapura",
+        "coordinates": {
+            "latitude": 12.8617268,
+            "longitude": 77.7859583
+        }
+    },
+    {
+        "name": "Dr. Shivanand- Ayush In Bengaluru",
+        "coordinates": {
+            "latitude": 12.8599625,
+            "longitude": 77.7845764
+        }
+    },
+    {
+        "name": "Jan aushadhi store",
+        "coordinates": {
+            "latitude": 12.8609287,
+            "longitude": 77.7840594
+        }
+    },
+    {
+        "name": "Hospital, Govt. Primary Health Centre",
+        "coordinates": {
+            "latitude": 12.8607784,
+            "longitude": 77.7839756
+        }
+    },
+    {
+        "name": "Aastha Hospital",
+        "coordinates": {
+            "latitude": 12.8573529,
+            "longitude": 77.7829
+        }
+    },
+    {
+        "name": "Shri Ram Jangu pharma",
+        "coordinates": {
+            "latitude": 12.8584363,
+            "longitude": 77.7830301
+        }
+    },
+    {
+        "name": "Greenview multi speciality clinic",
+        "coordinates": {
+            "latitude": 12.8604632,
+            "longitude": 77.7803757
+        }
+    },
+    {
+        "name": "CONFIDENT Multi-speciality Hospital",
+        "coordinates": {
+            "latitude": 12.8603807,
+            "longitude": 77.780292
+        }
+    },
+    {
+        "name": "Bharathi Dental Clinic",
+        "coordinates": {
+            "latitude": 12.8604358,
+            "longitude": 77.7802581
+        }
+    },
+    {
+        "name": "ADITYA MEDICAL STORE",
+        "coordinates": {
+            "latitude": 12.8350821,
+            "longitude": 77.7850996
+        }
+    },
+    {
+        "name": "Mazumdar Shaw Medical Center",
+        "coordinates": {
+            "latitude": 12.8068015,
+            "longitude": 77.6948007
+        }
+    },
+    {
+        "name": "NH Health City - Platinum Wing",
+        "coordinates": {
+            "latitude": 12.8069268,
+            "longitude": 77.6949135
+        }
+    },
+    {
+        "name": "dr srikanth k v, cardiologist, specialist in heart failure",
+        "coordinates": {
+            "latitude": 12.8095167,
+            "longitude": 77.6955606
+        }
+    },
+    {
+        "name": "Anjaneya Homeo Care",
+        "coordinates": {
+            "latitude": 12.825036,
+            "longitude": 77.6852515
+        }
+    },
+    {
+        "name": "Rakshya Multispeciality Clinic & Diagnostic Centre",
+        "coordinates": {
+            "latitude": 12.8352798,
+            "longitude": 77.6805532
+        }
+    },
+    {
+        "name": "Medax Vijayashree Hospital",
+        "coordinates": {
+            "latitude": 12.7789575,
+            "longitude": 77.6442788
+        }
+    },
+    {
+        "name": "Medax Diagnostics",
+        "coordinates": {
+            "latitude": 12.7788887,
+            "longitude": 77.6442349
+        }
+    },
+    {
+        "name": "APC",
+        "coordinates": {
+            "latitude": 12.7794648,
+            "longitude": 77.6439448
+        }
+    },
+    {
+        "name": "Infosys Medical Center",
+        "coordinates": {
+            "latitude": 12.8479518,
+            "longitude": 77.6668154
+        }
+    },
+    {
+        "name": "Vaidyaratnam Ayurveda Clinic Panchakarma Pharmacy",
+        "coordinates": {
+            "latitude": 12.8400791,
+            "longitude": 77.6499548
+        }
+    },
+    {
+        "name": "Anjana Child Care by BabyMD - Electronic City",
+        "coordinates": {
+            "latitude": 12.8406074,
+            "longitude": 77.6504909
+        }
+    },
+    {
+        "name": "PUNARJANMA AYURVEDIC WELLNESS CENTER",
+        "coordinates": {
+            "latitude": 12.8533081,
+            "longitude": 77.664552
+        }
+    },
+    {
+        "name": "Apollo Sugar Clinic",
+        "coordinates": {
+            "latitude": 12.8702743,
+            "longitude": 77.6595022
+        }
+    },
+    {
+        "name": "Apollo Clinic",
+        "coordinates": {
+            "latitude": 12.8702772,
+            "longitude": 77.659502
+        }
+    },
+    {
+        "name": "Pralaksha Hospital",
+        "coordinates": {
+            "latitude": 12.8708567,
+            "longitude": 77.6559772
+        }
+    },
+    {
+        "name": "Bychapura Skin Vaid",
+        "coordinates": {
+            "latitude": 13.2234459,
+            "longitude": 77.7141725
+        }
+    },
+    {
+        "name": "RAMAIAH HOSPITAL",
+        "coordinates": {
+            "latitude": 13.2370288,
+            "longitude": 77.7207948
+        }
+    },
+    {
+        "name": "Dr. Rangnath VN Internal Medicine in Devanahalli, Bangalore Rural",
+        "coordinates": {
+            "latitude": 13.2437197,
+            "longitude": 77.7172413
+        }
+    },
+    {
+        "name": "Deva nursing Hoe",
+        "coordinates": {
+            "latitude": 13.2437197,
+            "longitude": 77.7172413
+        }
+    },
+    {
+        "name": "Dr Paws pet clinic and shop",
+        "coordinates": {
+            "latitude": 13.2438744,
+            "longitude": 77.7159077
+        }
+    },
+    {
+        "name": "Prabhakar Medical & general store",
+        "coordinates": {
+            "latitude": 12.9843691,
+            "longitude": 77.8214481
+        }
+    },
+    {
+        "name": "BALAJI POLY CLINIC",
+        "coordinates": {
+            "latitude": 12.9761695,
+            "longitude": 77.8203261
+        }
+    },
+    {
+        "name": "SLV clinic",
+        "coordinates": {
+            "latitude": 12.9755487,
+            "longitude": 77.8201969
+        }
+    },
+    {
+        "name": "RKB SANJEEVINI HOSPITAL",
+        "coordinates": {
+            "latitude": 12.9754649,
+            "longitude": 77.8226685
+        }
+    },
+    {
+        "name": "PRADHAN MANTRI BHARTIYA JAN AUSHADI KENDRRA",
+        "coordinates": {
+            "latitude": 12.9754316,
+            "longitude": 77.8201805
+        }
+    },
+    {
+        "name": "Sri Rajarajeshwsri Nedical",
+        "coordinates": {
+            "latitude": 12.975124,
+            "longitude": 77.8200721
+        }
+    },
+    {
+        "name": "Goverment Veterinary Hospital D Hosahalli",
+        "coordinates": {
+            "latitude": 12.9680109,
+            "longitude": 77.8330517
+        }
+    },
+    {
+        "name": "Government Hospital",
+        "coordinates": {
+            "latitude": 12.9584035,
+            "longitude": 77.8155081
+        }
+    },
+    {
+        "name": "Veterinary Hospital Anugonadanahalli",
+        "coordinates": {
+            "latitude": 12.9579063,
+            "longitude": 77.8147284
+        }
+    },
+    {
+        "name": "Amar medicals",
+        "coordinates": {
+            "latitude": 13.2925682,
+            "longitude": 77.5445533
+        }
+    },
+    {
+        "name": "Kabadi Medicals",
+        "coordinates": {
+            "latitude": 13.2924365,
+            "longitude": 77.5444356
+        }
+    },
+    {
+        "name": "Surakshaa clinic",
+        "coordinates": {
+            "latitude": 13.2933031,
+            "longitude": 77.5442916
+        }
+    },
+    {
+        "name": "YASH EYE CLINIC",
+        "coordinates": {
+            "latitude": 13.2932851,
+            "longitude": 77.5442847
+        }
+    },
+    {
+        "name": "Sri Ram Towers",
+        "coordinates": {
+            "latitude": 13.2935399,
+            "longitude": 77.5436556
+        }
+    },
+    {
+        "name": "govt hospital doddaballapur",
+        "coordinates": {
+            "latitude": 13.2929992,
+            "longitude": 77.5430636
+        }
+    },
+    {
+        "name": "Veternary Hospital",
+        "coordinates": {
+            "latitude": 13.2926835,
+            "longitude": 77.5430368
+        }
+    },
+    {
+        "name": "Jai Maruthi Medicals And Clinic",
+        "coordinates": {
+            "latitude": 13.2877532,
+            "longitude": 77.5441092
+        }
+    },
+    {
+        "name": "Janatha Nursing Home",
+        "coordinates": {
+            "latitude": 13.2939342,
+            "longitude": 77.5428011
+        }
+    },
+    {
+        "name": "Sree Diagnostic",
+        "coordinates": {
+            "latitude": 13.2943804,
+            "longitude": 77.5427501
+        }
+    },
+    {
+        "name": "L V Hospital",
+        "coordinates": {
+            "latitude": 13.2893884,
+            "longitude": 77.5428832
+        }
+    },
+    {
+        "name": "Ganga Nursing Home",
+        "coordinates": {
+            "latitude": 13.2824408,
+            "longitude": 77.5502123
+        }
+    },
+    {
+        "name": "Janani Dental Clinic,Dr Sudeep",
+        "coordinates": {
+            "latitude": 13.2933618,
+            "longitude": 77.5424267
+        }
+    },
+    {
+        "name": "Drishti eye hospital Doddaballapura",
+        "coordinates": {
+            "latitude": 13.2936646,
+            "longitude": 77.5422917
+        }
+    },
+    {
+        "name": "Mediplus Doddaballapura Old Bus Stand",
+        "coordinates": {
+            "latitude": 13.2937117,
+            "longitude": 77.5422888
+        }
+    },
+    {
+        "name": "Physioheal Clinic",
+        "coordinates": {
+            "latitude": 13.2936361,
+            "longitude": 77.5422647
+        }
+    },
+    {
+        "name": "Srinivasa.M.K",
+        "coordinates": {
+            "latitude": 13.2913939,
+            "longitude": 77.5419996
+        }
+    },
+    {
+        "name": "Devanhalli raju ambitious service",
+        "coordinates": {
+            "latitude": 13.2508756,
+            "longitude": 77.7156305
+        }
+    },
+    {
+        "name": "Esi Dispensary",
+        "coordinates": {
+            "latitude": 13.2502309,
+            "longitude": 77.7157402
+        }
+    },
+    {
+        "name": "Suraksha Health Centre",
+        "coordinates": {
+            "latitude": 13.2488219,
+            "longitude": 77.7142729
+        }
+    },
+    {
+        "name": "Devi Plastic Devanhlli",
+        "coordinates": {
+            "latitude": 13.2479524,
+            "longitude": 77.7137997
+        }
+    },
+    {
+        "name": "Nakshathra Hospital",
+        "coordinates": {
+            "latitude": 13.2486372,
+            "longitude": 77.7156913
+        }
+    },
+    {
+        "name": "Vishwa Piles Hospital",
+        "coordinates": {
+            "latitude": 13.2483605,
+            "longitude": 77.7157531
+        }
+    },
+    {
+        "name": "SPOORTHY CHILDREN'S CLINIC",
+        "coordinates": {
+            "latitude": 13.2484152,
+            "longitude": 77.7161516
+        }
+    },
+    {
+        "name": "Primary Health Centre",
+        "coordinates": {
+            "latitude": 13.17345,
+            "longitude": 77.634407
+        }
+    },
+    {
+        "name": "PHC CHIKKAJALA",
+        "coordinates": {
+            "latitude": 13.1727225,
+            "longitude": 77.6338156
+        }
+    },
+    {
+        "name": "Mediplus Chikkajala",
+        "coordinates": {
+            "latitude": 13.1720252,
+            "longitude": 77.6336134
+        }
+    },
+    {
+        "name": "S L N Medical",
+        "coordinates": {
+            "latitude": 13.1712183,
+            "longitude": 77.5991433
+        }
+    },
+    {
+        "name": "Dr. Satyaprakash's Centre for Digestive and Liver Diseases",
+        "coordinates": {
+            "latitude": 12.9741998,
+            "longitude": 77.539247
+        }
+    },
+    {
+        "name": "AYUSH (Ayurvedic Govt. Hospital)",
+        "coordinates": {
+            "latitude": 13.1201808,
+            "longitude": 77.6806835
+        }
+    },
+    {
+        "name": "HOSMAT Hospital, Magrath Road",
+        "coordinates": {
+            "latitude": 12.9691194,
+            "longitude": 77.6133651
+        }
+    },
+    {
+        "name": "Dr. SHREESHAIL\u2019S AESTHETICS",
+        "coordinates": {
+            "latitude": 12.9625234,
+            "longitude": 77.7014832
+        }
+    },
+    {
+        "name": "Charvi clinic and medical \u0c9a\u0cbe\u0cb0\u0ccd\u0cb5\u0cbf \u0c95\u0ccd\u0cb2\u0cbf\u0ca8\u0cbf\u0c95\u0ccd & \u0cae\u0cc6\u0ca1\u0cbf\u0c95\u0cb2\u0ccd",
+        "coordinates": {
+            "latitude": 12.9079354,
+            "longitude": 77.7941523
+        }
+    },
+    {
+        "name": "Bhavya",
+        "coordinates": {
+            "latitude": 13.0184387,
+            "longitude": 77.6781698
+        }
+    },
+    {
+        "name": "Nayonika Eye Care Charitable Trust",
+        "coordinates": {
+            "latitude": 13.0213229,
+            "longitude": 77.6748053
+        }
+    },
+    {
+        "name": "MN Speciality & Aesthetic Clinic",
+        "coordinates": {
+            "latitude": 12.903762,
+            "longitude": 77.5856344
+        }
+    },
+    {
+        "name": "GM Hospitals, Nagarabhavi",
+        "coordinates": {
+            "latitude": 12.9612867,
+            "longitude": 77.5116852
+        }
+    },
+    {
+        "name": "Pranava Holistic Healing & Rejuvenation Center",
+        "coordinates": {
+            "latitude": 12.9386958,
+            "longitude": 77.5622648
+        }
+    },
+    {
+        "name": "Dr. Natesh ENT Care Centre",
+        "coordinates": {
+            "latitude": 12.939096,
+            "longitude": 77.5512161
+        }
+    },
+    {
+        "name": "Shree Dhanvantari Ayurveda Hospital",
+        "coordinates": {
+            "latitude": 12.9615834,
+            "longitude": 77.5221946
+        }
+    },
+    {
+        "name": "The Venlakh Hospital",
+        "coordinates": {
+            "latitude": 12.957193,
+            "longitude": 77.5643203
+        }
+    },
+    {
+        "name": "Kiran's Dental Clinic",
+        "coordinates": {
+            "latitude": 13.2231734,
+            "longitude": 77.549249
+        }
+    },
+    {
+        "name": "Srivenkateshwara Diagnostics Center",
+        "coordinates": {
+            "latitude": 13.256747,
+            "longitude": 77.5527222
+        }
+    },
+    {
+        "name": "Sri Satya Sai Hospital",
+        "coordinates": {
+            "latitude": 13.256892,
+            "longitude": 77.552707
+        }
+    },
+    {
+        "name": "Dodda tumkur primary govt. hospital",
+        "coordinates": {
+            "latitude": 13.2261771,
+            "longitude": 77.5275162
+        }
+    },
+    {
+        "name": "Rakshitha Hospital",
+        "coordinates": {
+            "latitude": 13.2579024,
+            "longitude": 77.553247
+        }
+    },
+    {
+        "name": "Jai Maruthi medicals And General Stores",
+        "coordinates": {
+            "latitude": 13.2580766,
+            "longitude": 77.5529221
+        }
+    },
+    {
+        "name": "Primary Health Center",
+        "coordinates": {
+            "latitude": 13.2249349,
+            "longitude": 77.527026
+        }
+    },
+    {
+        "name": "Dhanwantri Clinic",
+        "coordinates": {
+            "latitude": 13.2599002,
+            "longitude": 77.5527604
+        }
+    },
+    {
+        "name": "Cloudnine Hospital - Malleshwaram",
+        "coordinates": {
+            "latitude": 13.0078582,
+            "longitude": 77.5625495
+        }
+    },
+    {
+        "name": "Matru Multispeciality Hospital",
+        "coordinates": {
+            "latitude": 12.9896132,
+            "longitude": 77.5388877
+        }
+    },
+    {
+        "name": "Employees State Insurance Dispensary",
+        "coordinates": {
+            "latitude": 13.0150835,
+            "longitude": 77.5598834
+        }
+    },
+    {
+        "name": "Saikrupa Hospital",
+        "coordinates": {
+            "latitude": 12.9691546,
+            "longitude": 77.5351712
+        }
+    },
+    {
+        "name": "Ayur Ashrama",
+        "coordinates": {
+            "latitude": 12.9826753,
+            "longitude": 77.4737721
+        }
+    },
+    {
+        "name": "Mathrushree Nethralaya",
+        "coordinates": {
+            "latitude": 13.0332459,
+            "longitude": 77.5558378
+        }
+    },
+    {
+        "name": "Siddhartha Medical",
+        "coordinates": {
+            "latitude": 13.028485,
+            "longitude": 77.552233
+        }
+    },
+    {
+        "name": "Lalitha Health Care Private Limited",
+        "coordinates": {
+            "latitude": 13.0229759,
+            "longitude": 77.5537441
+        }
+    },
+    {
+        "name": "Maruthi Hospital",
+        "coordinates": {
+            "latitude": 13.0214437,
+            "longitude": 77.5545307
+        }
+    },
+    {
+        "name": "Ashraya Hospitals",
+        "coordinates": {
+            "latitude": 12.9888859,
+            "longitude": 77.50781
+        }
+    },
+    {
+        "name": "ESI Corporation",
+        "coordinates": {
+            "latitude": 13.0046198,
+            "longitude": 77.5540212
+        }
+    },
+    {
+        "name": "Sri Lakshmi Multi Speciality Hospital",
+        "coordinates": {
+            "latitude": 12.9880711,
+            "longitude": 77.5088217
+        }
+    },
+    {
+        "name": "Healthcare Consulting",
+        "coordinates": {
+            "latitude": 12.992487,
+            "longitude": 77.5332796
+        }
+    },
+    {
+        "name": "Supra Diagnostics Spine Care And Ortho Care Hospital",
+        "coordinates": {
+            "latitude": 12.9970105,
+            "longitude": 77.573004
+        }
+    },
+    {
+        "name": "Lakshmi Hospital",
+        "coordinates": {
+            "latitude": 13.1578482,
+            "longitude": 77.6252546
+        }
+    },
+    {
+        "name": "The Trinity Health Care Nutrition Centre",
+        "coordinates": {
+            "latitude": 12.8710515,
+            "longitude": 77.6552805
+        }
+    },
+    {
+        "name": "Jeevika Hospital",
+        "coordinates": {
+            "latitude": 12.9659734,
+            "longitude": 77.7025645
+        }
+    }
+]
