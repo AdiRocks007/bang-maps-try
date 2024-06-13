@@ -4,6 +4,7 @@ import L from 'leaflet';
 import Select from 'react-select';
 import 'leaflet/dist/leaflet.css';
 import './Map.css'; // Make sure to import the CSS file
+import ProjectPopup from '../components/Project_popup/ProjectPopup'
 
 const defaultCenter = { lat: 12.9927655, lng: 77.8060448 };
 
@@ -43,6 +44,7 @@ const Map = () => {
   const [metroData, setMetroData] = useState([]);
   const [schoolData, setSchoolData] = useState([]);
   const [hospitalData, setHospitalData] = useState([]);
+  const [imageData, setImageData] = useState([]);
   const [markers, setMarkers] = useState([]);
 
   useEffect(() => {
@@ -70,6 +72,11 @@ const Map = () => {
       .then(response => response.json())
       .then(data => setHospitalData(data))
       .catch(error => console.error('Error fetching hospitals data:', error));
+
+    fetch('/output_projects_with_images.json') // Assuming the image data is in this file
+      .then(response => response.json())
+      .then(data => setImageData(data))
+      .catch(error => console.error('Error fetching images data:', error));
   }, []);
 
   const handleAmenityChange = (selectedOptions) => {
@@ -87,6 +94,11 @@ const Map = () => {
       }
     });
     setMarkers(newMarkers);
+  };
+
+  const getProjectImages = (projectId) => {
+    const projectImages = imageData.find(item => item.project_id === projectId);
+    return projectImages ? projectImages.large_image_urls : [];
   };
 
   return (
@@ -115,7 +127,9 @@ const Map = () => {
               position={[project.Latitude, project.Longitude]}
               icon={customIcons.project}
             >
-              <Popup>{project['Project Name']}</Popup>
+              <Popup>
+                <ProjectPopup project={project} images={getProjectImages(project['Internal ID'])} />
+              </Popup>
             </Marker>
           ))}
           {markers.map((marker, index) => (

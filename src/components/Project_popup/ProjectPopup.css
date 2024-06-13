@@ -1,0 +1,36 @@
+/* ProjectPopup.css */
+.popup-content {
+    text-align: center;
+  }
+  
+  .carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-item {
+    min-width: 100%;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .popup-content h3 {
+    margin: 5px;
+  }
+  .popup-content h4 {
+    margin: 5px;
+  }
+  .popup-content p {
+    margin: 5px;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 150px;
+  }
+  
