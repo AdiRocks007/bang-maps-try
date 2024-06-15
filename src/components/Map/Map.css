@@ -1,9 +1,9 @@
 .select-container {
     position: absolute;
     top: 10px;
-    left: 10%;
+    left: 30%;
     z-index: 1000; /* Ensure the dropdown appears above the map */
-    width: 90%; /* Adjust the width as needed */
+    width: 40%; /* Adjust the width as needed */
   }
   
   .map .container {

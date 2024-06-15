@@ -1,0 +1,61 @@
+.App {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .left-half {
+    width: 25%;
+    transition: width 0.3s;
+    position: relative;
+    z-index: 10;
+    background-color: white;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .left-half.collapsed {
+    width: 0;
+  }
+  
+  .right-half {
+    flex: 1;
+    transition: flex 0.3s;
+  }
+  
+  .right-half.full {
+    flex: 1;
+  }
+  
+  .collapse-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 20px;
+    transition: left 0.3s;
+  }
+  
+  .left-half.collapsed + .collapse-button {
+    left: 0;
+  }
+  
+  .project-details {
+    height: 100%;
+    overflow-y: auto;
+  }
+ .desc {
+    left: 0 !important;
+ }  
+ .asc {
+    left: 25% !important;
+ }
